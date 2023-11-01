@@ -5,6 +5,7 @@ import Confirm from '.';
 import { renderScreen } from '../../../../util/test/renderWithProvider';
 import Routes from '../../../../constants/navigation/Routes';
 import initialBackgroundState from '../../../../util/test/initial-background-state.json';
+import TransactionReviewEIP1559Update from '../../../UI/TransactionReview/TransactionReviewEIP1559Update';
 
 const mockInitialState = {
   engine: {
@@ -17,12 +18,21 @@ const mockInitialState = {
           type: 'mainnet',
         },
       },
+      GasFeeController: {
+        gasFeeEstimates: {
+          low: '0x0',
+          medium: '0x0',
+          high: '0x0',
+        },
+        gasEstimateType: 'none',
+      },
       AccountTrackerController: {
         accounts: { '0x2': { balance: '0' } },
       },
       CurrencyRateController: {
         currentCurrency: 'USD',
         conversionRate: 1,
+        nativeCurrency: 'ETH',
       },
       PreferencesController: {
         identities: {
@@ -43,6 +53,7 @@ const mockInitialState = {
       from: '0x1',
       to: '0x2',
       value: '0x2',
+      data: undefined,
     },
   },
   fiatOrders: {
@@ -81,6 +92,9 @@ jest.mock('../../../../core/Engine', () => ({
     TokensController: {
       addToken: jest.fn(),
     },
+    GasFeeController: {
+      getTimeEstimate: jest.fn(),
+    },
   },
 }));
 jest.mock('../../../../util/custom-gas', () => ({
@@ -91,6 +105,7 @@ jest.mock('../../../../util/transactions', () => ({
   ...jest.requireActual('../../../../util/transactions'),
   decodeTransferData: jest.fn().mockImplementation(() => ['0x2']),
 }));
+jest.mock('../../../UI/TransactionReview/TransactionReviewEIP1559Update');
 
 function render(Component: React.ComponentType | ConnectedComponent<any, any>) {
   return renderScreen(
@@ -110,5 +125,7 @@ describe('Confirm', () => {
     await waitFor(() => {
       expect(wrapper).toMatchSnapshot();
     });
+
+    expect(TransactionReviewEIP1559Update).toHaveBeenCalled();
   });
 });
