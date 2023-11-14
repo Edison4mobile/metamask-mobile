@@ -18,7 +18,7 @@ require('react-native-browser-polyfill'); // eslint-disable-line import/no-commo
 
 import * as Sentry from '@sentry/react-native'; // eslint-disable-line import/no-namespace
 import { setupSentry } from './app/util/sentryUtils';
-setupSentry();
+// setupSentry();
 
 import { AppRegistry, LogBox } from 'react-native';
 import Root from './app/components/Views/Root';
