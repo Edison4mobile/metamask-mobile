@@ -1,13 +1,15 @@
 {
   "blockaid_banner": {
     "approval_farming_description": "Kung aaprubahan mo ang kahilingang ito, posibleng kunin ng third party na kilala sa mga panloloko ang lahat ng asset mo.",
-    "attribution": "Abiso sa seguridad ng",
+    "attribution": "Pinapagana ng",
     "attribution_link_name": "Blockaid",
     "blur_farming_description": "Kung aaprubahan mo ang kahilingang ito, posibleng nakawin ng ibang tao ang mga asset mo na nakalista sa Blur.",
     "deceptive_request_title": "Isa itong mapanlinlang na kahilingan",
     "failed_title": "Baka hindi ligtas ang kahilingan",
     "failed_description": "Dahil sa pagkakamali, ang kahilingang ito ay hindi na-verify ng tagapaglaan ng seguridad. Magpatuloy nang may pag-iingat.",
+    "loading_title": "Sinusuri pa rin namin ang kaligtasan ng hiling na ito. Maghintay o magpatuloy nang may pag-iingat.",
     "malicious_domain_description": "Nakikipag-ugnayan ka sa isang mapaminsalang domain. Kung aaprubahan mo ang kahilingang ito, posibleng mawala sa iyo ang mga asset mo.",
+    "no_risks": "Walang panganib na natagpuan",
     "other_description": "Kung aaprubahan mo ang kahilingang ito, posibleng mawala sa iyo ang mga asset mo.",
     "raw_signature_farming_description": "Kung aaprubahan mo ang kahilingang ito, posibleng mawala sa iyo ang mga asset mo.",
     "seaport_farming_description": "Kung aaprubahan mo ang kahilingang ito, posibleng nakawin ng ibang tao ang mga asset mo na nakalista sa OpenSea.",
@@ -514,6 +516,7 @@
     "import_account": "Mag-import ng account",
     "connect_hardware": "Ikonekta ang wallet na hardware",
     "imported": "Na-import",
+    "qr_hardware": "QR hardware",
     "remove_account_title": "Pag-alis ng account",
     "remove_account_message": "Gusto mo ba talagang alisin ang account na ito?",
     "no": "Hindi",
@@ -537,7 +540,15 @@
     "address_balance_activity_permission": "Tingnan ang address, balanse ng account, at aktibidad",
     "suggest_transactions": "Magmungkahi ng mga transaksyong aaprubahan",
     "disconnect": "Idiskonekta",
-    "disconnect_all_accounts": "Idiskonekta ang lahat ng account"
+    "disconnect_all_accounts": "Idiskonekta ang lahat ng account",
+    "deceptive_site_ahead": "Papunta sa isang mapanlinlang na site",
+    "deceptive_site_desc": "Ang site na iyong sinusubukang bisitahin ay hindi ligtas. Maaari kang linlangin ng mga umaatake na gumawa ng mapanganib na bagay.",
+    "learn_more": "Matuto pa",
+    "advisory_by": "Payo na ibinigay ng Ethereum Phishing Detector at PhishFort",
+    "potential_threat": "Kabilang sa potensyal na panganib ay",
+    "fake_metamask": "Pekeng bersyon ng MetaMask",
+    "srp_theft": "Pagnanakaw ng password o secret recovery phrase",
+    "malicious_transactions": "Mga mapanganib na transaskyon na magreresulta sa ninakaw na pag-aari"
   },
   "toast": {
     "connected_and_active": "konektado at aktibo.",
@@ -991,7 +1002,6 @@
     "confirm": "Kumpirmahin"
   },
   "transaction": {
-    "hardware": "Hardware",
     "alert": "ALERTO",
     "amount": "Halaga",
     "next": "Susunod",
@@ -1369,7 +1379,8 @@
     "you_can": "O maaari kang",
     "add_network": "magdagdag pa ng mga network nang manu-mano.",
     "select_network": "Pumili ng network",
-    "show_test_networks": "Ipakita ang mga test network"
+    "show_test_networks": "Ipakita ang mga test network",
+    "deprecated_goerli": "Due to the protocol changes of Ethereum: Goerli test network may not work as reliably and will be deprecated soon."
   },
   "select": {
     "cancel": "Kanselahin",
@@ -2237,7 +2248,16 @@
     "unrecognized_chain": "Hindi kinikilala ang custom na network na ito",
     "invalid_chain": "Ang %{rpcUrl} para sa ID ng Chain na ito ay hindi tumutugma sa chainid.network listing",
     "alert_recommend": "Inirerekomenda namin sa iyo na",
-    "alert_verify": "i-verify ang ID ng chain"
+    "alert_verify": "i-verify ang ID ng chain",
+    "warning_subtext_new": {
+      "1": "Ang MetaMask ay hindi nagbeberipika ng mga custom network, kaya aprubahan lamang ang mga network na pinagkakatiwalaan mo.",
+      "2": "Matuto pa tungkol sa panganib sa seguridad sa network at mga scam."
+    },
+    "invalid_rpc_url": "Ang URL ng network na ito ay hindi tumutugma sa kilalang provider para sa chain ID na ito.",
+    "invalid_chain_token_decimals": "Mukhang ang decimal ng network na ito ay hindi tugma sa chain ID nito.",
+    "unrecognized_chain_name": "Mukhang ang display na pangalan ng network na ito ay hindi tugma sa chain ID nito.",
+    "unrecognized_chain_ticker": "Mukhang ang simbolo ng network na ito ay hindi tugma sa chain ID nito.",
+    "unrecognized_chain_id": "Hindi namin nakikilala ang network na ito. Siguraduhin na tama ang chain ID bago ka magpatuloy."
   },
   "media_player": {
     "loading": "Nilo-load...",

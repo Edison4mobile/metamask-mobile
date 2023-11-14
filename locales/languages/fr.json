@@ -1,13 +1,15 @@
 {
   "blockaid_banner": {
     "approval_farming_description": "Si vous approuvez cette demande, un tiers connu pour ses activités frauduleuses pourrait s’emparer de tous vos actifs.",
-    "attribution": "Conseils de sécurité fournis par",
+    "attribution": "Fourni par",
     "attribution_link_name": "Blockaid",
     "blur_farming_description": "Si vous approuvez cette demande, quelqu’un pourrait s’emparer de vos actifs répertoriés sur Blur.",
     "deceptive_request_title": "Cette demande est trompeuse",
     "failed_title": "Cette demande peut présenter des risques",
     "failed_description": "À cause d’une erreur, cette demande n’a pas été vérifiée par le fournisseur de services de sécurité. Veuillez agir avec prudence.",
+    "loading_title": "Nous évaluons actuellement les risques liés à cette demande. Patientez ou continuez avec prudence.",
     "malicious_domain_description": "Vous interagissez avec un domaine malveillant. Si vous approuvez cette demande, vous risquez de perdre vos actifs.",
+    "no_risks": "Aucun risque trouvé",
     "other_description": "Si vous approuvez cette demande, vous risquez de perdre vos actifs.",
     "raw_signature_farming_description": "Si vous approuvez cette demande, vous risquez de perdre vos actifs.",
     "seaport_farming_description": "Si vous approuvez cette demande, quelqu’un pourrait s'emparer de vos actifs répertoriés sur OpenSea.",
@@ -514,6 +516,7 @@
     "import_account": "Importer un compte",
     "connect_hardware": "Connecter un portefeuille matériel",
     "imported": "Importés",
+    "qr_hardware": "Matériel QR",
     "remove_account_title": "Suppression du compte",
     "remove_account_message": "Souhaitez-vous vraiment supprimer ce compte ?",
     "no": "Non",
@@ -537,7 +540,15 @@
     "address_balance_activity_permission": "Consulter l’adresse, le solde et l’activité du compte",
     "suggest_transactions": "Proposer des transactions à approuver",
     "disconnect": "Déconnexion",
-    "disconnect_all_accounts": "Déconnecter tous les comptes"
+    "disconnect_all_accounts": "Déconnecter tous les comptes",
+    "deceptive_site_ahead": "Site trompeur à venir",
+    "deceptive_site_desc": "Le site que vous essayez de visiter n’est pas sécurisé. Les pirates peuvent vous inciter à agir de façon risquée.",
+    "learn_more": "En savoir plus",
+    "advisory_by": "Avis fourni par le détecteur d’hameçonnage Ethereum et PhishFort",
+    "potential_threat": "Parmi les menaces potentielles, il y a",
+    "fake_metamask": "Les fausses versions de MetaMask",
+    "srp_theft": "Le vol de phrase secrète de récupération ou de mot de passe",
+    "malicious_transactions": "Les transactions malveillantes pour voler vos actifs"
   },
   "toast": {
     "connected_and_active": "connecté et actif.",
@@ -991,7 +1002,6 @@
     "confirm": "Confirmer"
   },
   "transaction": {
-    "hardware": "Matériel",
     "alert": "ALERTE",
     "amount": "Montant",
     "next": "Suivant",
@@ -1369,7 +1379,8 @@
     "you_can": "Ou vous pouvez",
     "add_network": "ajouter manuellement d’autres réseaux.",
     "select_network": "Sélectionner un réseau",
-    "show_test_networks": "Afficher les réseaux de test"
+    "show_test_networks": "Afficher les réseaux de test",
+    "deprecated_goerli": "Due to the protocol changes of Ethereum: Goerli test network may not work as reliably and will be deprecated soon."
   },
   "select": {
     "cancel": "Annuler",
@@ -2237,7 +2248,16 @@
     "unrecognized_chain": "Ce réseau personnalisé n’est pas reconnu",
     "invalid_chain": "Le %{rpcUrl} de cet ID de chaîne ne correspond pas à la liste chainid.network",
     "alert_recommend": "Nous vous recommandons de",
-    "alert_verify": "vérifier l’ID de chaîne"
+    "alert_verify": "vérifier l’ID de chaîne",
+    "warning_subtext_new": {
+      "1": "MetaMask ne vérifie pas les réseaux personnalisés. N’approuvez donc que les réseaux dans lesquels vous avez confiance.",
+      "2": "En savoir plus sur la sécurité des réseaux et les risques d’arnaques."
+    },
+    "invalid_rpc_url": "L’URL de ce réseau ne correspond pas à celle du fournisseur qui utilise cet ID de chaîne.",
+    "invalid_chain_token_decimals": "Il semble que la décimale de ce réseau ne corresponde pas à l’ID de la chaîne.",
+    "unrecognized_chain_name": "Il semble que le nom de ce réseau ne corresponde pas à l’ID de la chaîne.",
+    "unrecognized_chain_ticker": "Il semble que le symbole de ce réseau ne corresponde pas à l’ID de cette chaîne.",
+    "unrecognized_chain_id": "Nous ne connaissons pas ce réseau. Assurez-vous que l’ID de la chaîne est correct avant de continuer."
   },
   "media_player": {
     "loading": "Chargement…",

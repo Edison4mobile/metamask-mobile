@@ -1,13 +1,15 @@
 {
   "blockaid_banner": {
     "approval_farming_description": "如果您批准此请求，因欺诈而恶名昭彰的第三方可能会拿走您的所有资产。",
-    "attribution": "安全建议提供商：",
+    "attribution": "技术支持：",
     "attribution_link_name": "Blockaid",
     "blur_farming_description": "如果您批准此请求，则有人可以窃取您列于Blur上的资产。",
     "deceptive_request_title": "此请求属欺骗性质",
     "failed_title": "此请求可能不安全",
     "failed_description": "由于出现错误，安全服务提供商未验证此请求。请谨慎操作。",
+    "loading_title": "我们仍在评估此请求的安全性。请等待或谨慎继续。",
     "malicious_domain_description": "您正在与恶意网域交互。如果您批准此请求，可能会遭受资产损失。",
+    "no_risks": "未发现风险",
     "other_description": "如果您批准此请求，可能会遭受资产损失。",
     "raw_signature_farming_description": "如果您批准此请求，可能会有资产损失。",
     "seaport_farming_description": "如果您批准此请求，则有人可以窃取您列于OpenSea上的资产。",
@@ -514,6 +516,7 @@
     "import_account": "导入账户",
     "connect_hardware": "连接硬件钱包",
     "imported": "已导入",
+    "qr_hardware": "QR 硬件",
     "remove_account_title": "删除账户",
     "remove_account_message": "是否确实想要删除此账户？",
     "no": "否",
@@ -537,7 +540,15 @@
     "address_balance_activity_permission": "查看地址、账户余额和活动",
     "suggest_transactions": "建议要批准的交易",
     "disconnect": "断开连接",
-    "disconnect_all_accounts": "断开所有账户的连接"
+    "disconnect_all_accounts": "断开所有账户的连接",
+    "deceptive_site_ahead": "前方为欺骗性网站",
+    "deceptive_site_desc": "您尝试访问的网站并不安全。攻击者可能会诱使您做一些危险的事情",
+    "learn_more": "了解详情",
+    "advisory_by": "建议由以太坊网络钓鱼探测器和PhishFort提供",
+    "potential_threat": "潜在威胁包括",
+    "fake_metamask": "MetaMask的伪造版本",
+    "srp_theft": "私钥助记词或密码被盗",
+    "malicious_transactions": "导致资产被盗的恶意交易"
   },
   "toast": {
     "connected_and_active": "已连接且处于活动状态。",
@@ -991,7 +1002,6 @@
     "confirm": "确认"
   },
   "transaction": {
-    "hardware": "硬件",
     "alert": "警报",
     "amount": "数额",
     "next": "下一步",
@@ -1369,7 +1379,8 @@
     "you_can": "或者您可以",
     "add_network": "手动添加更多网络。",
     "select_network": "选择网络",
-    "show_test_networks": "显示测试网络"
+    "show_test_networks": "显示测试网络",
+    "deprecated_goerli": "Due to the protocol changes of Ethereum: Goerli test network may not work as reliably and will be deprecated soon."
   },
   "select": {
     "cancel": "取消",
@@ -2237,7 +2248,16 @@
     "unrecognized_chain": "此自定义网络未被识别",
     "invalid_chain": "该链 ID 的 %{rpcUrl} 与 chainid.network 列表不匹配",
     "alert_recommend": "我们建议您",
-    "alert_verify": "验证链 ID"
+    "alert_verify": "验证链 ID",
+    "warning_subtext_new": {
+      "1": "MetaMask 不会验证自定义网络，因此，请仅批准您信任的网络。",
+      "2": "了解更多有关网络安全风险和欺诈的信息。"
+    },
+    "invalid_rpc_url": "此网络 URL 与此链 ID 的已知提供商不匹配。",
+    "invalid_chain_token_decimals": "这个网络的小数似乎与其链 ID 不匹配。",
+    "unrecognized_chain_name": "这个网络的显示名称似乎与其链 ID 不匹配。",
+    "unrecognized_chain_ticker": "这个网络的符号似乎与其链 ID 不匹配。",
+    "unrecognized_chain_id": "我们无法识别此网络。请确保链 ID 正确无误，然后才继续。"
   },
   "media_player": {
     "loading": "正在加载...",

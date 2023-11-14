@@ -1,13 +1,15 @@
 {
   "blockaid_banner": {
     "approval_farming_description": "Если вы одобрите этот запрос, третья сторона, известная мошенничеством, может похитить все ваши активы.",
-    "attribution": "Совет по безопасности от",
+    "attribution": "На основе",
     "attribution_link_name": "Blockaid",
     "blur_farming_description": "Если вы одобрите этот запрос, кто-то может украсть ваши активы, зарегистрированные в Blur.",
     "deceptive_request_title": "Это запрос с целью обмана",
     "failed_title": "Запрос может быть небезопасным",
     "failed_description": "Из-за ошибки этот запрос не был подтвержден поставщиком услуг безопасности. Действуйте осторожно.",
+    "loading_title": "Мы все еще оцениваем безопасность этого запроса. Подождите или действуйте осторожно.",
     "malicious_domain_description": "Вы взаимодействуете с вредоносным доменом. Если вы одобрите этот запрос, вы можете потерять свои активы.",
+    "no_risks": "Угроз не обнаружено",
     "other_description": "Если вы одобрите этот запрос, вы можете потерять свои активы.",
     "raw_signature_farming_description": "Если вы одобрите этот запрос, вы можете потерять свои активы.",
     "seaport_farming_description": "Если вы одобрите этот запрос, кто-то может украсть ваши активы, указанные в OpenSea.",
@@ -514,6 +516,7 @@
     "import_account": "Импортировать счет",
     "connect_hardware": "Подключить аппаратный кошелек",
     "imported": "Импортирован",
+    "qr_hardware": "QR-оборудование",
     "remove_account_title": "Удаление счета",
     "remove_account_message": "Вы действительно хотите удалить этот счет?",
     "no": "Нет",
@@ -537,7 +540,15 @@
     "address_balance_activity_permission": "Просмотр адреса, баланса счета и активности",
     "suggest_transactions": "Предлагать транзакции для одобрения",
     "disconnect": "Отключиться",
-    "disconnect_all_accounts": "Отключить все счета"
+    "disconnect_all_accounts": "Отключить все счета",
+    "deceptive_site_ahead": "Впереди моешеннический сайт",
+    "deceptive_site_desc": "Сайт, который вы пытаетесь посетить, небезопасен. Злоумышленники могут обманом заставить вас сделать что-то опасное.",
+    "learn_more": "Подробнее",
+    "advisory_by": "Консультации предоставлены Ethereum Phishing Detector и PhishFort",
+    "potential_threat": "Потенциальные угрозы включают",
+    "fake_metamask": "Поддельные версии MetaMask",
+    "srp_theft": "Секретная фраза для восстановления или кража пароля",
+    "malicious_transactions": "Вредоносные транзакции, приводящие к краже активов"
   },
   "toast": {
     "connected_and_active": "подключен и активен.",
@@ -991,7 +1002,6 @@
     "confirm": "Подтвердить"
   },
   "transaction": {
-    "hardware": "Аппаратный",
     "alert": "ВНИМАНИЕ",
     "amount": "Сумма",
     "next": "Далее",
@@ -1369,7 +1379,8 @@
     "you_can": "Или вы можете",
     "add_network": "добавить другие сети вручную.",
     "select_network": "Выбрать сеть",
-    "show_test_networks": "Показать тестнеты"
+    "show_test_networks": "Показать тестнеты",
+    "deprecated_goerli": "Due to the protocol changes of Ethereum: Goerli test network may not work as reliably and will be deprecated soon."
   },
   "select": {
     "cancel": "Отмена",
@@ -2237,7 +2248,16 @@
     "unrecognized_chain": "Эта пользовательская сеть не распознана",
     "invalid_chain": "%{rpcUrl} для этого ID блокчейна не соответствует списку chainid.network",
     "alert_recommend": "Рекомендуем вам",
-    "alert_verify": "проверить ID блокчейна"
+    "alert_verify": "проверить ID блокчейна",
+    "warning_subtext_new": {
+      "1": "MetaMask не проверяет пользовательские сети, так что одобряйте только сети, которым вы доверяете.",
+      "2": "Узнайте подробнее об угрозах безопасности сетей и мошенничестве."
+    },
+    "invalid_rpc_url": "URL сети не соответствует известному поставщику этого ID блокчейна.",
+    "invalid_chain_token_decimals": "Похоже, десятичный номер этой сети не соответствует её ID блокчейна.",
+    "unrecognized_chain_name": "Похоже, отображаемое имя этой сети не соответствует её ID блокчейна.",
+    "unrecognized_chain_ticker": "Похоже, символ этой сети не соответствует этому ID блокчейна.",
+    "unrecognized_chain_id": "Мы не узнаем эту сеть. Убедитесь в правильности ID блокчейна до того, как продолжить."
   },
   "media_player": {
     "loading": "Загрузка...",
