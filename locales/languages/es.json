@@ -46,14 +46,14 @@
   },
   "onboarding": {
     "title": "Configuración de monedero",
-    "sync_desc": "Si ya tiene la extensión MetaMask u otro monedero, sincronícelo o impórtelo para administrar sus activos existentes.",
+    "sync_desc": "Si ya tiene la extensión ElonMask u otro monedero, sincronícelo o impórtelo para administrar sus activos existentes.",
     "create_desc": "Configure su primer monedero y empiece a explorar aplicaciones descentralizadas.",
     "import": "Importar un monedero existente o crear uno nuevo",
     "import_wallet_button": "Sincronizar o importar monedero",
     "new_to_crypto": "¿Primera vez que usa criptomonedas?",
     "start_exploring_now": "Crear un monedero nuevo",
     "unlock": "Desbloquear",
-    "new_to_metamask": "¿Es nuevo en MetaMask?",
+    "new_to_metamask": "¿Es nuevo en ElonMask?",
     "already_have_wallet": "¿Ya tiene un monedero?",
     "optin_back_title": "¡Atención!",
     "optin_back_desc": "Indique si está de acuerdo o en desacuerdo con el uso de análisis de datos.  También puede actualizar esta opción en la configuración.",
@@ -61,15 +61,15 @@
     "warning_text_1": "Si continúa, se quitará",
     "warning_text_2": "su cartera y",
     "warning_text_3": "sus cuentas actuales.",
-    "warning_text_4": "Podrá recuperarlas SOLO con la frase secreta de recuperación del monedero. MetaMask no puede ayudarlo a recuperarla.",
+    "warning_text_4": "Podrá recuperarlas SOLO con la frase secreta de recuperación del monedero. ElonMask no puede ayudarlo a recuperarla.",
     "warning_proceed": "Eliminar monedero y continuar",
     "warning_cancel": "Cancelar",
     "step1": "Configuración de monedero",
     "step2": "Crear contraseña",
     "step3": "Proteger monedero",
     "already_have": "¿Ya tiene un monedero?",
-    "sync_existing": "Sincronice su monedero existente de MetaMask desde la extensión del explorador o impórtelo manualmente.",
-    "scan_title": "Pasos para sincronizar con la extensión MetaMask",
+    "sync_existing": "Sincronice su monedero existente de ElonMask desde la extensión del explorador o impórtelo manualmente.",
+    "scan_title": "Pasos para sincronizar con la extensión ElonMask",
     "scan": "Escanear",
     "scan_step_1": "Abra la extensión en el escritorio",
     "scan_step_2": "Vaya a Configuración  > Avanzada",
@@ -80,12 +80,12 @@
     "delete_current": "Borrando monedero actual"
   },
   "onboarding_carousel": {
-    "title1": "Bienvenido a MetaMask",
+    "title1": "Bienvenido a ElonMask",
     "title2": "Administrar sus activos digitales",
     "title3": "Su puerta de enlace a Web3",
-    "subtitle1": "Con la confianza de millones de usuarios, MetaMask es un monedero seguro que permite que todos puedan acceder al mundo de Web3.",
+    "subtitle1": "Con la confianza de millones de usuarios, ElonMask es un monedero seguro que permite que todos puedan acceder al mundo de Web3.",
     "subtitle2": "Almacene, gaste y envíe activos digitales como tokens, Ethereum, coleccionables únicos.",
-    "subtitle3": "Inicie sesión con MetaMask y lleve a cabo transacciones para invertir, ganar, jugar juegos, vender y mucho más.",
+    "subtitle3": "Inicie sesión con ElonMask y lleve a cabo transacciones para invertir, ganar, jugar juegos, vender y mucho más.",
     "get_started": "Empezar"
   },
   "onboarding_wizard": {
@@ -115,7 +115,7 @@
     "step4": {
       "title": "Menú principal",
       "content1": "Puede acceder al Historial de transacciones, Configuración y Soporte desde este menú.",
-      "content2": "Puede realizar más acciones con sus cuentas y acceder a la configuración de MetaMask."
+      "content2": "Puede realizar más acciones con sus cuentas y acceder a la configuración de ElonMask."
     },
     "step5": {
       "title": "Explorador el explorador",
@@ -134,7 +134,7 @@
     },
     "step1": {
       "title": "¡Bienvenido a su nuevo monedero!",
-      "content1": "En la cadena de bloques, necesita un monedero (y tal vez algo de ETH). Entonces, echemos un vistazo a cómo usar su monedero MetaMask."
+      "content1": "En la cadena de bloques, necesita un monedero (y tal vez algo de ETH). Entonces, echemos un vistazo a cómo usar su monedero ElonMask."
     },
     "step2": {
       "title": "Sus cuentas",
@@ -162,14 +162,14 @@
     "subtitle": "Este proceso no debería tardar mucho"
   },
   "import_wallet": {
-    "title": "¿Ya es usuario de MetaMask?",
+    "title": "¿Ya es usuario de ElonMask?",
     "sub_title": "Sincronizar con la extensión",
     "sync_help": "Sincronizar el monedero con la extensión",
     "sync_help_step_one": "1. Abra la extensión",
     "sync_help_step_two": "2. Vaya a Configuración  > Avanzada",
     "sync_help_step_three": "3. Haga clic en \"Sincronizar con dispositivo móvil\"",
     "sync_help_step_four": "4. Escanee el código QR para empezar la sincronización",
-    "sync_from_browser_extension_button": "Sincronizar con la extensión MetaMask",
+    "sync_from_browser_extension_button": "Sincronizar con la extensión ElonMask",
     "or": "O",
     "import_from_seed_button": "Importar con la frase secreta de recuperación"
   },
@@ -189,13 +189,13 @@
     "this_action": "Esta acción no puede deshacerse.",
     "you_can_only": "SOLO podrá recuperar este monedero con su ",
     "recovery_phrase": "Frase secreta de recuperación ",
-    "metamask_does_not": "MetaMask no tiene su frase secreta de recuperación.",
+    "metamask_does_not": "ElonMask no tiene su frase secreta de recuperación.",
     "i_understand": "Comprendo; continuar",
     "passcode_not_set_error": "Error: Código de acceso no establecido.",
     "wrong_password_error": "Error: Error al descifrar",
     "wrong_password_error_android": "Error: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "Error: No se puede desbloquear sin una bóveda anterior.",
-    "clean_vault_error": "MetaMask encontró un error ocasionado por alcanzar el límite de almacenamiento. Los datos locales están dañados. Vuelva a instalar MetaMask y restaure la aplicación con la frase secreta de recuperación.",
+    "clean_vault_error": "ElonMask encontró un error ocasionado por alcanzar el límite de almacenamiento. Los datos locales están dañados. Vuelva a instalar ElonMask y restaure la aplicación con la frase secreta de recuperación.",
     "security_alert_title": "Alerta de seguridad",
     "security_alert_desc": "Para continuar, debe activar el código de acceso o cualquier método de autenticación biométrica compatible con su dispositivo (FaceID, TouchID o huella dactilar)"
   },
@@ -208,7 +208,7 @@
   },
   "choose_password": {
     "title": "Crear contraseña",
-    "subtitle": "Esta contraseña desbloqueará su monedero de MetaMask solo en este dispositivo.",
+    "subtitle": "Esta contraseña desbloqueará su monedero de ElonMask solo en este dispositivo.",
     "password": "Nueva contraseña",
     "confirm_password": "Confirmar contraseña",
     "create_button": "Crear contraseña",
@@ -226,7 +226,7 @@
     "remember_me": "Recordarme",
     "security_alert_title": "Alerta de seguridad",
     "security_alert_message": "Para continuar, debe activar el código de acceso o cualquier método de autenticación biométrica compatible con el dispositivo (FaceID, TouchID o huella dactilar)",
-    "i_understand": "Entiendo que MetaMask no me puede ayudar a recuperar esta contraseña.",
+    "i_understand": "Entiendo que ElonMask no me puede ayudar a recuperar esta contraseña.",
     "learn_more": "Obtenga más información.",
     "secure": "Proteger monedero",
     "confirm": "Confirmar frase secreta de recuperación",
@@ -234,7 +234,7 @@
   },
   "reset_password": {
     "title": "Cambiar contraseña",
-    "subtitle": "Esta contraseña desbloqueará su monedero de MetaMask solo en este dispositivo.",
+    "subtitle": "Esta contraseña desbloqueará su monedero de ElonMask solo en este dispositivo.",
     "password": "Nueva contraseña",
     "confirm_password": "Confirmar contraseña",
     "reset_button": "Restablecer contraseña",
@@ -252,7 +252,7 @@
     "remember_me": "Recordarme",
     "security_alert_title": "Alerta de seguridad",
     "security_alert_message": "Para continuar, debe activar el código de acceso o cualquier método de autenticación biométrica compatible con el dispositivo (FaceID, TouchID o huella dactilar)",
-    "i_understand": "Entiendo que MetaMask no me puede ayudar a recuperar esta contraseña.",
+    "i_understand": "Entiendo que ElonMask no me puede ayudar a recuperar esta contraseña.",
     "learn_more": "Obtenga más información.",
     "secure": "Proteger monedero",
     "confirm": "Confirmar frase secreta de recuperación",
@@ -302,7 +302,7 @@
     "lock_ok": "SÍ",
     "lock_cancel": "NO",
     "feedback": "Comentarios",
-    "metamask_support": "Soporte de MetaMask",
+    "metamask_support": "Soporte de ElonMask",
     "public_address": "Dirección pública"
   },
   "send": {
@@ -354,7 +354,7 @@
     "no_tokens": "No tiene ningún token.",
     "no_nfts_yet": "No hay ningún NFT aún",
     "nfts_autodetection_title": "Detección de NFT",
-    "nfts_autodetection_desc": "Permita que MetaMask detecte automáticamente los NFT de OpenSea y los muestre en su monedero MetaMask.",
+    "nfts_autodetection_desc": "Permita que ElonMask detecte automáticamente los NFT de OpenSea y los muestre en su monedero ElonMask.",
     "nfts_autodetection_cta": "Active la detección de NFT en Configuraciones",
     "learn_more": "Más información",
     "add_collectibles": "AGREGAR NFT",
@@ -437,15 +437,15 @@
   "privacy_policy": {
     "title": "Política de privacidad",
     "fine_print_1": "Estos datos se agrupan y, por lo tanto, son anónimos a los efectos del Reglamento general de protección de datos (UE) 2016/679.",
-    "fine_print_2a": "*Cuando usa Infura como su proveedor de RPC predeterminado en MetaMask, Infura recopilará su dirección IP y la dirección de su monedero de Ethereum cuando envíe una transacción. No almacenamos esta información de una manera que permita a nuestros sistemas asociar esos dos datos. Puede configurar su proveedor RPC",
-    "fine_print_2b": "antes de continuar.\nPara obtener más información sobre cómo interactúan MetaMask e Infura desde la perspectiva de la recopilación de datos, consulte nuestra actualización",
+    "fine_print_2a": "*Cuando usa Infura como su proveedor de RPC predeterminado en ElonMask, Infura recopilará su dirección IP y la dirección de su monedero de Ethereum cuando envíe una transacción. No almacenamos esta información de una manera que permita a nuestros sistemas asociar esos dos datos. Puede configurar su proveedor RPC",
+    "fine_print_2b": "antes de continuar.\nPara obtener más información sobre cómo interactúan ElonMask e Infura desde la perspectiva de la recopilación de datos, consulte nuestra actualización",
     "fine_print_2c": ". Para obtener más información sobre nuestras prácticas de privacidad en general, consulte nuestra Política de privacidad",
     "here": "aquí",
     "agree": "Acepto",
     "decline": "No, gracias",
-    "description_title": "Ayúdenos a mejorar MetaMask",
-    "description_content_1": "A MetaMask le gustaría recopilar datos de uso básicos para entender mejor cómo los usuarios interactúan con la aplicación móvil. Estos datos se usarán para mejorar de manera continua la usabilidad y la experiencia de usuario de nuestro producto.",
-    "description_content_2": "MetaMask…",
+    "description_title": "Ayúdenos a mejorar ElonMask",
+    "description_content_1": "A ElonMask le gustaría recopilar datos de uso básicos para entender mejor cómo los usuarios interactúan con la aplicación móvil. Estos datos se usarán para mejorar de manera continua la usabilidad y la experiencia de usuario de nuestro producto.",
+    "description_content_2": "ElonMask…",
     "action_description_1": "Permitirle siempre optar por no participar a través de Configuración",
     "action_description_2": "Enviar eventos de vistas de página y clics anónimos",
     "action_description_3": "Envía datos de país, región, ciudad (sin ubicación específica)",
@@ -575,7 +575,7 @@
     "current_conversion": "Moneda base",
     "current_language": "Idioma actual",
     "ipfs_gateway": "Puerta de enlace de IPFS",
-    "ipfs_gateway_content": "MetaMask utiliza servicios de terceros para mostrar imágenes de sus NFT almacenados en IPFS, mostrar información relacionada con las direcciones ENS ingresadas en la barra de direcciones de su navegador y obtener íconos para diferentes tokens. Su dirección IP puede estar expuesta a estos servicios cuando los está utilizando.",
+    "ipfs_gateway_content": "ElonMask utiliza servicios de terceros para mostrar imágenes de sus NFT almacenados en IPFS, mostrar información relacionada con las direcciones ENS ingresadas en la barra de direcciones de su navegador y obtener íconos para diferentes tokens. Su dirección IP puede estar expuesta a estos servicios cuando los está utilizando.",
     "ipfs_gateway_down": "La puerta de enlace de IPFS actual está inactiva",
     "ipfs_gateway_desc": "Elija la puerta de enlace de IPFS de su preferencia.",
     "search_engine": "Motor de búsqueda",
@@ -584,7 +584,7 @@
     "add_network_title": "Agregar una red",
     "auto_lock": "Bloqueo automático",
     "auto_lock_desc": "Elija la cantidad de tiempo antes de que la aplicación se bloquee automáticamente.",
-    "state_logs_desc": "Esto ayudará a que MetaMask depure cualquier problema que se pueda encontrar. Envíelo al soporte de MetaMask a través del icono de tres barras > Enviar comentarios, o responda a la incidencia existente, si la tiene.",
+    "state_logs_desc": "Esto ayudará a que ElonMask depure cualquier problema que se pueda encontrar. Envíelo al soporte de ElonMask a través del icono de tres barras > Enviar comentarios, o responda a la incidencia existente, si la tiene.",
     "autolock_immediately": "Inmediatamente",
     "autolock_never": "Nunca",
     "autolock_after": "Después de {{time}} segundos",
@@ -618,7 +618,7 @@
     "protect_title": "Proteger su monedero",
     "video_failed": "No se pudo cargar el video.",
     "protect_desc": "Para proteger el monedero, guarde la frase secreta de recuperación en distintos lugares, como en un trozo de papel, un gestor de contraseñas o en la nube.",
-    "protect_desc_no_backup": "Esta es la frase de 12 palabras de su monedero. Esta frase se puede usar para tomar el control de todas sus cuentas actuales y futuras, incluida la capacidad de enviar fondos desde su monedero. Mantenga esta frase guardada de forma segura, NO la comparta con nadie. MetaMask no puede ayudarlo a recuperar esta clave.",
+    "protect_desc_no_backup": "Esta es la frase de 12 palabras de su monedero. Esta frase se puede usar para tomar el control de todas sus cuentas actuales y futuras, incluida la capacidad de enviar fondos desde su monedero. Mantenga esta frase guardada de forma segura, NO la comparta con nadie. ElonMask no puede ayudarlo a recuperar esta clave.",
     "learn_more": "Obtenga más información.",
     "seedphrase_not_backed_up": "Importante: La frase secreta de recuperación no tiene copia de seguridad",
     "seedphrase_backed_up": "Se creó una copia de seguridad de la frase secreta de recuperación",
@@ -689,7 +689,7 @@
     "remove_network_title": "¿Quiere quitar esta red?",
     "remove_network": "Quitar",
     "cancel_remove_network": "Cancelar",
-    "info_title": "Acerca de MetaMask",
+    "info_title": "Acerca de ElonMask",
     "experimental_title": "Experimental",
     "experimental_desc": "WalletConnect y más...",
     "legal_title": "Legal",
@@ -709,7 +709,7 @@
     "clear_history_desc": "Elija esta opción para borrar todo el historial de exploración.",
     "clear_cookies_desc": "Elija esta opción para borrar las cookies del explorador.",
     "metametrics_title": "Participar en MetaMetrics",
-    "metametrics_description": "Participe en MetaMetrics para ayudarnos a mejorar MetaMask.",
+    "metametrics_description": "Participe en MetaMetrics para ayudarnos a mejorar ElonMask.",
     "batch_balance_requests_title": "Solicitudes de saldo de cuenta por lotes",
     "batch_balance_requests_description": "Procesamos cuentas por lotes y consultamos a Infura para mostrar sus saldos de manera receptiva. Si desactiva esta opción, solo se consultarán las cuentas activas. Algunas dApps no funcionarán a menos que conecte su monedero.",
     "third_party_title": "Obtener transacciones entrantes",
@@ -757,18 +757,18 @@
     "delete_metrics_confirm_modal_title": "¿Eliminar datos de MetaMetrics?",
     "delete_metrics_confirm_modal_description": "Estamos a punto de eliminar todos sus datos de MetaMetrics. ¿Está seguro?",
     "delete_wallet_data_title": "Eliminar monedero",
-    "delete_wallet_data_description": "Esto eliminará de su dispositivo todos los datos relacionados con el monedero. Sus cuentas existen en la cadena de bloques y no están relacionadas con MetaMask. Siempre puede recuperar sus cuentas usando su frase secreta de recuperación.",
+    "delete_wallet_data_description": "Esto eliminará de su dispositivo todos los datos relacionados con el monedero. Sus cuentas existen en la cadena de bloques y no están relacionadas con ElonMask. Siempre puede recuperar sus cuentas usando su frase secreta de recuperación.",
     "delete_wallet_data_button": "Eliminar monedero",
     "delete_data_status_title": "Estado de la tarea de eliminación",
     "delete_data_status_description": "El estado actual es",
     "delete_metrics_error_title": "No pudimos eliminar estos datos en este momento.",
     "delete_metrics_error_description": "Esta solicitud no se puede completar en este momento debido a un problema con el servidor del sistema de análisis. Por favor, vuelva a intentarlo más tarde.",
     "ok": "Aceptar",
-    "clear_sdk_connections_title": "Borrar todas las conexiones SDK de MetaMask",
+    "clear_sdk_connections_title": "Borrar todas las conexiones SDK de ElonMask",
     "clear_sdk_connections_text": "Todas las conexiones se borrarán y las dapps deberán solicitar la conexión nuevamente",
-    "sdk_connections": "Conexiones SDK de MetaMask",
+    "sdk_connections": "Conexiones SDK de ElonMask",
     "manage_sdk_connections_title": "Administrar conexiones",
-    "manage_sdk_connections_text": "Eliminar conexiones a sitios y/o SDK de MetaMask.",
+    "manage_sdk_connections_text": "Eliminar conexiones a sitios y/o SDK de ElonMask.",
     "fiat_on_ramp": {
       "title": "Comprar cripto",
       "description": "Región y más...",
@@ -786,7 +786,7 @@
     "contact_support": "Contacte a soporte",
     "display_nft_media": "Mostrar medios NFT",
     "display_nft_media_desc": "La visualización de medios y datos NFT expone su dirección IP a OpenSea u otros terceros. La detección automática de NFT se basa en esta función y no estará disponible cuando esté desactivada.",
-    "autodetect_nft_desc": "Permita que MetaMask agregue NFT de su propiedad mediante servicios de terceros (como OpenSea). La detección automática de NFT expone su IP y dirección de cuenta a estos servicios. Habilitar esta función podría asociar su dirección IP con su dirección de Ethereum y mostrar NFT enviados mediante airdrop por estafadores. Puede agregar tokens manualmente para evitar este riesgo.",
+    "autodetect_nft_desc": "Permita que ElonMask agregue NFT de su propiedad mediante servicios de terceros (como OpenSea). La detección automática de NFT expone su IP y dirección de cuenta a estos servicios. Habilitar esta función podría asociar su dirección IP con su dirección de Ethereum y mostrar NFT enviados mediante airdrop por estafadores. Puede agregar tokens manualmente para evitar este riesgo.",
     "incoming_transactions_title": "Mostrar transacciones entrantes",
     "incoming_transactions_content": "Esto depende de la red que seleccione, la misma que expondrá su dirección Ethereum y su dirección IP.",
     "display_nft_media_desc_new": "La visualización de medios y datos NFT expone su dirección IP a OpenSea o a otros terceros. La autodetección de NFT se basa en esta función y no estará disponible cuando esté desactivada. Si los medios NFT están completamente ubicados en IPFS, aún se pueden mostrar incluso cuando esta función está desactivada."
@@ -797,14 +797,14 @@
     "disconnect": "Desconectar",
     "disconnect_all": "Desconectar todo",
     "cancel": "Cancelar",
-    "loading": "Conectándose a MetaMask...",
+    "loading": "Conectándose a ElonMask...",
     "unkown_dapp": "Nombre de DAPP no disponible",
     "no_connections": "No se encontraron conexiones"
   },
   "sdk_feedback_modal": {
     "ok": "Aceptar",
     "title": "No se pudo conectar la cuenta",
-    "info": "Escaneé el código QR de la dApp para volver a conectarla a MetaMask"
+    "info": "Escaneé el código QR de la dApp para volver a conectarla a ElonMask"
   },
   "app_information": {
     "title": "Información",
@@ -829,7 +829,7 @@
       "Frase secreta de recuperación (SRP)",
       "otorga",
       "acceso completo a su monedero, fondos y cuentas.\n\n",
-      "MetaMask es una",
+      "ElonMask es una",
       "monedero no custodiado.",
       "Eso significa que,",
       "usted es el dueño de su SRP."
@@ -838,14 +838,14 @@
     "private_key_warning": "Esta es la clave privada para la cuenta seleccionada actual: {{accountName}}. No revele esta clave. Cualquier persona que tenga su clave privada podrá controlar completamente su cuenta, incluida la transferencia de sus fondos.",
     "seed_phrase_warning_explanation": [
       "Asegúrese de que nadie esté viendo su pantalla.",
-      "El soporte técnico de MetaMask nunca se lo solicitará."
+      "El soporte técnico de ElonMask nunca se lo solicitará."
     ],
     "private_key_warning_explanation": "No revele esta clave. Cualquier persona que tenga su clave privada podrá controlar completamente su cuenta, incluida la transferencia de sus fondos.",
     "reveal_credential_modal": [
       "Su {{credentialName}} le proporciona ",
       "acceso completo a su monedero y fondos. \n\nNo la comparta con nadie.\n",
       "acceso completo a su monedero y fondos. \n\nNo la comparta con nadie.\n",
-      "El soporte técnico de MetaMask nunca se lo solicitará, ",
+      "El soporte técnico de ElonMask nunca se lo solicitará, ",
       "pero quienes cometen fraudes electrónicos pueden solicitárselo."
     ],
     "seed_phrase": "Su frase secreta de recuperación",
@@ -881,7 +881,7 @@
   },
   "password_reset": {
     "password_title": "Contraseña",
-    "password_desc": "Elija una contraseña segura para desbloquear la aplicación MetaMask en el dispositivo. Si pierde esta contraseña, necesitará la frase secreta de recuperación para volver a importar el monedero.",
+    "password_desc": "Elija una contraseña segura para desbloquear la aplicación ElonMask en el dispositivo. Si pierde esta contraseña, necesitará la frase secreta de recuperación para volver a importar el monedero.",
     "password_learn_more": "Obtenga más información.",
     "change_password": "Cambiar contraseña"
   },
@@ -935,7 +935,7 @@
       "show_less": "Mostrar menos"
     },
     "activity": "Actividad de {{symbol}}",
-    "disclaimer": "Los datos de mercado son proporcionados por una o más fuentes de datos de terceros, incluido CoinGecko. Dicho contenido de terceros se proporciona únicamente con fines informativos y no debe tratarse como un consejo para comprar, vender o utilizar ningún activo en particular. MetaMask no sugiere el uso de este contenido para ningún propósito en particular y no es responsable de su precisión."
+    "disclaimer": "Los datos de mercado son proporcionados por una o más fuentes de datos de terceros, incluido CoinGecko. Dicho contenido de terceros se proporciona únicamente con fines informativos y no debe tratarse como un consejo para comprar, vender o utilizar ningún activo en particular. ElonMask no sugiere el uso de este contenido para ningún propósito en particular y no es responsable de su precisión."
   },
   "account_details": {
     "title": "Detalles de la cuenta",
@@ -978,7 +978,7 @@
     "cancel": "Cancelar",
     "error": "Error",
     "attempting_to_scan_with_wallet_locked": "Si desea escanear un código QR, desbloqueé su monedero para poder usarlo.",
-    "attempting_sync_from_wallet_error": "Parece que intenta sincronizar con la extensión. debe borrar el monedero actual. \n\nUna vez que haya borrado o vuelto a instalar una versión nueva de la aplicación, seleccione la opción \"Sincronizar con la extensión MetaMask\". Importante: Antes de borrar el monedero, asegúrese de haber hecho una copia de seguridad de la frase secreta de recuperación.",
+    "attempting_sync_from_wallet_error": "Parece que intenta sincronizar con la extensión. debe borrar el monedero actual. \n\nUna vez que haya borrado o vuelto a instalar una versión nueva de la aplicación, seleccione la opción \"Sincronizar con la extensión ElonMask\". Importante: Antes de borrar el monedero, asegúrese de haber hecho una copia de seguridad de la frase secreta de recuperación.",
     "not_allowed_error_title": "Habilitar acceso a la cámara",
     "not_allowed_error_desc": "Se necesita acceso a la cámara para escanear un código QR asociado con una dirección de cuenta o una dirección de contrato",
     "unrecognized_address_qr_code_title": "Código QR no reconocido",
@@ -1091,7 +1091,7 @@
     "gas_education_1": "Las tarifas de gas se abonan a los mineros de criptomonedas que procesan transacciones a través de la ",
     "gas_education_2_ethereum": "red de Ethereum.",
     "gas_education_2": "red.",
-    "gas_education_3": "MetaMask no se beneficia de las tarifas de gas.",
+    "gas_education_3": "ElonMask no se beneficia de las tarifas de gas.",
     "gas_education_4": "Las tarifas de gas fluctúan en función del tráfico de la red y la complejidad de la transacción.",
     "gas_education_learn_more": "Obtenga más información sobre las tarifas de gas",
     "confusable_title": "Verifique la dirección del destinatario",
@@ -1106,7 +1106,7 @@
     "invalid_qr_code_sync": "Código QR no válido. Por favor, escanee el código QR de sincronización de su monedero físico.",
     "no_camera_permission": "La cámara no está autorizada. Por favor, otorgue acceso y vuelva a intentar",
     "invalid_qr_code_sign": "Código QR no válido. Por favor, revise su hardware y vuelva a intentar.",
-    "no_camera_permission_android": "Debe otorgar a MetaMask acceso a su cámara para continuar. Es posible que también deba cambiar sus configuraciones del sistema.",
+    "no_camera_permission_android": "Debe otorgar a ElonMask acceso a su cámara para continuar. Es posible que también deba cambiar sus configuraciones del sistema.",
     "mismatched_qr_request_id": "Datos de transacción incongruentes. Utilice su monedero Keystone para firmar el código QR a continuación y pulse 'Obtener firma'.",
     "fiat_conversion_not_available": "Las conversiones a fiat no están disponibles en este momento",
     "hex_data_copied": "Datos hexadecimales copiados al portapapeles",
@@ -1123,7 +1123,7 @@
     "save": "Guardar",
     "warning_gas_limit": "El límite de gas debe ser mayor que 20 999 y menor que 7 920 027",
     "warning_gas_limit_estimated": "El límite estimado de Gas es {{gas}}; úselo como valor mínimo",
-    "cost_explanation": "La tarifa de gas cubre el costo del procesamiento de la transacción en la red de Ethereum. MetaMask no se beneficia de esta cuota. Cuanto más alta es la cuota, hay mejores probabilidades de que se procese la transacción."
+    "cost_explanation": "La tarifa de gas cubre el costo del procesamiento de la transacción en la red de Ethereum. ElonMask no se beneficia de esta cuota. Cuanto más alta es la cuota, hay mejores probabilidades de que se procese la transacción."
   },
   "spend_limit_edition": {
     "save": "Guardar",
@@ -1189,7 +1189,7 @@
     "change_url": "Cambiar dirección URL",
     "switch_network": "Cambiar red",
     "dapp_browser": "EXPLORADOR DE DAPP",
-    "dapp_browser_message": "MetaMask es su monedero y el explorador para la Web descentralizada. ¡Eche una vistazo!",
+    "dapp_browser_message": "ElonMask es su monedero y el explorador para la Web descentralizada. ¡Eche una vistazo!",
     "featured_dapps": "DAPPS DESTACADAS",
     "my_favorites": "MIS FAVORITOS",
     "search": "Buscar o escribir una dirección URL",
@@ -1336,8 +1336,8 @@
     "status_ok": "Todos los sistemas operacionales",
     "status_not_ok": "La red presenta algunos problemas",
     "want_to_add_network": "¿Desea agregar esta red?",
-    "network_infomation": "Esto permite que esta red se use dentro de MetaMask",
-    "network_endorsement": "MetaMask no respalda las redes personalizadas ni su seguridad.",
+    "network_infomation": "Esto permite que esta red se use dentro de ElonMask",
+    "network_endorsement": "ElonMask no respalda las redes personalizadas ni su seguridad.",
     "learn_about": "Más información sobre",
     "network_risk": "estafas y riesgos de seguridad de la red",
     "network_display_name": "Mostrar nombre",
@@ -1423,9 +1423,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Autenticación requerida",
-    "auth_prompt_desc": "Autentíquese para usar MetaMask",
+    "auth_prompt_desc": "Autentíquese para usar ElonMask",
     "fingerprint_prompt_title": "Autenticación requerida",
-    "fingerprint_prompt_desc": "Use su huella dactilar para desbloquear MetaMask",
+    "fingerprint_prompt_desc": "Use su huella dactilar para desbloquear ElonMask",
     "fingerprint_prompt_cancel": "Cancelar"
   },
   "accountApproval": {
@@ -1447,7 +1447,7 @@
   },
   "import_private_key": {
     "title": "Importar cuenta",
-    "description_one": "Puede visualizar las cuentas importadas en su monedero, pero no podrá recuperarlas con la frase secreta de recuperación de MetaMask.",
+    "description_one": "Puede visualizar las cuentas importadas en su monedero, pero no podrá recuperarlas con la frase secreta de recuperación de ElonMask.",
     "learn_more_here": "Obtenga más información sobre las cuentas importadas aquí.",
     "subtitle": "Pegue su cadena de clave privada",
     "cta_text": "IMPORTAR",
@@ -1459,7 +1459,7 @@
   },
   "import_private_key_success": {
     "title": "La cuenta se importó correctamente.",
-    "description_one": "Ahora podrá ver su cuenta en MetaMask."
+    "description_one": "Ahora podrá ver su cuenta en ElonMask."
   },
   "first_incoming_transaction": {
     "title": "{{asset}} se depositó en su cuenta",
@@ -1474,7 +1474,7 @@
     "step_1_description": "Crear contraseña",
     "step_2": "Paso 2:",
     "step_2_description": "Guardar frase secreta de recuperación del monedero",
-    "info_text_1": "Tómese unos momentos para terminar de configurar el monedero de MetaMask.",
+    "info_text_1": "Tómese unos momentos para terminar de configurar el monedero de ElonMask.",
     "info_text_2": "Esto garantizará que solo usted podrá acceder a sus fondos y le permitirá recuperar su monedero si se le pierde el dispositivo",
     "cta_text": "Crear contraseña",
     "creating_password": "Creando contraseña…"
@@ -1496,7 +1496,7 @@
     "what_is_seedphrase_title": "Qué es una “frase secreta de recuperación”",
     "what_is_seedphrase_text_1": "Una frase secreta de recuperación es un grupo de doce palabras que contiene toda la información sobre su monedero, incluidos sus fondos. Es como un código secreto que se usa para acceder a todo su monedero.",
     "what_is_seedphrase_text_2": "La frase secreta de recuperación debe guardarse en un lugar secreto y seguro. Si una persona la encuentra, podrá acceder a sus cuentas.",
-    "what_is_seedphrase_text_3": "Guárdela en un lugar al que solo usted tenga acceso. Si la pierde, ni siquiera MetaMask podrá ayudarlo a recuperarla."
+    "what_is_seedphrase_text_3": "Guárdela en un lugar al que solo usted tenga acceso. Si la pierde, ni siquiera ElonMask podrá ayudarlo a recuperarla."
   },
   "account_backup_step_1B": {
     "title": "Proteger su monedero",
@@ -1569,7 +1569,7 @@
   },
   "account_backup_step_6": {
     "title": "Sugerencias de seguridad",
-    "info_text": "MetaMask no podrá recuperar la frase secreta de recuperación si usted llegara a perderla.",
+    "info_text": "ElonMask no podrá recuperar la frase secreta de recuperación si usted llegara a perderla.",
     "tip_1": "Conserve varias copias de seguridad de la frase secreta de recuperación",
     "tip_2": "Guarde la frase en un gestor de contraseñas de confianza y en varios papeles en un lugar seguro",
     "tip_3": "No comparta esta frase con nadie",
@@ -1609,7 +1609,7 @@
     "congratulations": "Felicitaciones",
     "success": "Protegió correctamente su monedero. Recuerde guardar la frase secreta de recuperación en un lugar seguro; ¡es su responsabilidad!",
     "hint": "¿Quiere dejarse una pista?",
-    "recover": "MetaMask no podrá recuperar su monedero en caso de que lo pierda. Puede encontrar la frase secreta de recuperación en Configuración > Seguridad y privacidad.",
+    "recover": "ElonMask no podrá recuperar su monedero en caso de que lo pierda. Puede encontrar la frase secreta de recuperación en Configuración > Seguridad y privacidad.",
     "learn": "Más información",
     "done": "Hecho",
     "recovery_hint": "Pista de recuperación",
@@ -1622,7 +1622,7 @@
   "phishing": {
     "ethereum_phishing_detection": "Detección de phishing de Ethereum",
     "ethereum_phishing_detector": "Detector de phishing de Ethereum",
-    "intro": " está actualmente en la lista de advertencia de dominios de MetaMask. Esto significa que, en función de la información disponible, MetaMask cree que este dominio actualmente podría poner en riesgo su seguridad y, como función de seguridad agregada, MetaMask tiene acceso restringido al sitio. Para anular esto, lea el resto de la advertencia para ver las instrucciones sobre cómo puede continuar a su propio riesgo.",
+    "intro": " está actualmente en la lista de advertencia de dominios de ElonMask. Esto significa que, en función de la información disponible, ElonMask cree que este dominio actualmente podría poner en riesgo su seguridad y, como función de seguridad agregada, ElonMask tiene acceso restringido al sitio. Para anular esto, lea el resto de la advertencia para ver las instrucciones sobre cómo puede continuar a su propio riesgo.",
     "reasons": "Hay muchas razones por las que los sitios pueden aparecer en la lista de advertencia, la que es una compilación de otras listas ampliamente usadas en el sector. Dichos motivos pueden incluir riesgos de seguridad o fraude conocidos, como dominios que tienen un resultado positivo en ",
     "list_content": "Los dominios que aparecen en estas listas de advertencia pueden incluir sitios web completamente malintencionados y sitios web legítimos que se han visto comprometidos por un actor malintencionado.",
     "to_read_more": "Para leer más sobre este sitio ",
@@ -1657,7 +1657,7 @@
     "received_message": "Presionar para ver esta transacción",
     "received_payment_message": "Recibió {{amount}} DAI",
     "prompt_title": "Habilitar notificaciones push",
-    "prompt_desc": "Habilite las notificaciones para que MetaMask pueda informarle cuando ha recibido ETH o cuando se han confirmado sus transacciones.",
+    "prompt_desc": "Habilite las notificaciones para que ElonMask pueda informarle cuando ha recibido ETH o cuando se han confirmado sus transacciones.",
     "prompt_ok": "Sí",
     "prompt_cancel": "No, gracias",
     "wc_connected_title": "Conectado a {{title}}",
@@ -1824,7 +1824,7 @@
     "wyre_minimum_deposit": "El depósito mínimo es {{amount}}",
     "wyre_maximum_deposit": "El depósito máximo es {{amount}}",
     "apple_pay_purchase": "{{currency}} Compra",
-    "apple_pay_provider_total_label": "{{provider}} (por medio de MetaMask)",
+    "apple_pay_provider_total_label": "{{provider}} (por medio de ElonMask)",
     "buy_with": "Comprar con",
     "plus_fee": "Más una tarifa de {{fee}}",
     "notifications": {
@@ -1853,12 +1853,12 @@
         "average_gas_fee": "Tarifa de gas promedio actual:",
         "subtitle_1": "Si tiene previsto intercambiar o transferir sus {{ticker}}, compre de más para cubrir las tarifas de gas.",
         "subtitle_2": "Las tarifas de gas para las transacciones son independientes del costo de compra de {{ticker}}.",
-        "subtitle_3": "MetaMask no se beneficia de las tarifas de gas."
+        "subtitle_3": "ElonMask no se beneficia de las tarifas de gas."
       },
       "step_2": {
         "title": "¿Qué son las tarifas de gas?",
         "subtitle_1": "El gas alimenta las transacciones a través de la red de Ethereum. Es una tarifa que se paga en {{ticker}} a los mineros de criptomonedas que procesan sus transacciones.",
-        "subtitle_2": "MetaMask no se beneficia de las tarifas de gas.",
+        "subtitle_2": "ElonMask no se beneficia de las tarifas de gas.",
         "learn_more": "Obtenga más información sobre las tarifas de gas"
       },
       "step_3": {
@@ -1996,13 +1996,13 @@
       "best_swap": "mejor intercambio",
       "across": "en…",
       "want_to_learn_more": "¿Quiere obtener más información?",
-      "learn_more": "Más información sobre MetaMask Swaps",
+      "learn_more": "Más información sobre ElonMask Swaps",
       "what_are": "¿Qué es el intercambio de tokens?",
       "review_audits": "Revise nuestra auditoría oficial de contratos",
       "start_swapping": "Comenzar a intercambiar"
     },
     "feature_off_title": "Temporalmente no disponible",
-    "feature_off_body": "MetaMask Swaps está en mantenimiento. Vuelva a comprobarlo más tarde.",
+    "feature_off_body": "ElonMask Swaps está en mantenimiento. Vuelva a comprobarlo más tarde.",
     "wrong_network_title": "Los intercambios no están disponibles",
     "wrong_network_body": "Solo puede intercambiar tokens en la red principal de Ethereum.",
     "unallowed_asset_title": "No se puede intercambiar este token",
@@ -2080,20 +2080,20 @@
     "estimated_gas_fee": "Tarifa de gas estimada",
     "max_gas_fee": "Tarifa de gas máxima",
     "edit": "Editar",
-    "quotes_include_fee": "Las cotizaciones incluyen un {{fee}} % de tarifa de MetaMask",
+    "quotes_include_fee": "Las cotizaciones incluyen un {{fee}} % de tarifa de ElonMask",
     "tap_to_swap": "Toque para intercambiar",
     "swipe_to_swap": "Deslice para intercambiar",
     "swipe_to": "Deslice para",
     "swap": "intercambiar",
     "completed_swap": "Swap",
-    "metamask_swap_fee": "Tarifa de intercambio de MetaMask",
+    "metamask_swap_fee": "Tarifa de intercambio de ElonMask",
     "fee_text": {
       "get_the": "Obtenga",
       "best_price": "el mejor precio",
       "from_the": "de las",
       "top_liquidity": "mejores fuentes de liquidez.",
-      "fee_is_applied": "Una tarifa de {{fee}} se incluye automáticamente en esta cotización. Lo paga a cambio de una licencia para usar el software de agregación de información del proveedor de liquidez de MetaMask.",
-      "fee_is_not_applied": "MetaMask no incluye una tarifa adicional en esta cotización."
+      "fee_is_applied": "Una tarifa de {{fee}} se incluye automáticamente en esta cotización. Lo paga a cambio de una licencia para usar el software de agregación de información del proveedor de liquidez de ElonMask.",
+      "fee_is_not_applied": "ElonMask no incluye una tarifa adicional en esta cotización."
     },
     "enable": {
       "this_will": "Esto",
@@ -2158,7 +2158,7 @@
     "gas_education_1": "Las tarifas de gas se abonan a los mineros de criptomonedas que procesan transacciones a través de la ",
     "gas_education_2_ethereum": "red de Ethereum.",
     "gas_education_2": "red.",
-    "gas_education_3": "MetaMask no se beneficia de las tarifas de gas.",
+    "gas_education_3": "ElonMask no se beneficia de las tarifas de gas.",
     "gas_education_4": "La",
     "gas_education_5": "“Tarifa de gas estimada”",
     "gas_education_6": "es el valor que esperamos que tenga la tarifa real. El monto exacto depende de las condiciones de la red.",
@@ -2215,15 +2215,15 @@
   "switch_custom_network": {
     "title_existing_network": "Este sitio desea cambiar la red",
     "title_new_network": "Se agregó una red nueva",
-    "switch_warning": "Cambiará la red seleccionada en MetaMask a una red que se agregó antes:",
+    "switch_warning": "Cambiará la red seleccionada en ElonMask a una red que se agregó antes:",
     "available": "ya está disponible en el selector de redes.",
     "cancel": "Cancelar",
     "switch": "Cambiar red"
   },
   "add_custom_network": {
     "title": "¿Permitir que este sitio agregue una red?",
-    "warning": "Permite que la red se utilice en MetaMask.",
-    "warning_subtext_1": "MetaMask no verifica redes personalizadas ni su seguridad.",
+    "warning": "Permite que la red se utilice en ElonMask.",
+    "warning_subtext_1": "ElonMask no verifica redes personalizadas ni su seguridad.",
     "warning_subtext_2": "Obtenga más información sobre",
     "warning_subtext_3": "estafas y riesgos de la seguridad de la red",
     "display_name": "Nombre para mostrar",
@@ -2305,7 +2305,7 @@
     "estimated_gas_fee_tooltip_text_1": "Las tarifas de gas se pagan a los criptomineros que procesan transacciones con la",
     "estimated_gas_fee_tooltip_text_2": "Red de",
     "estimated_gas_fee_tooltip_text_3": "Ethereum.",
-    "estimated_gas_fee_tooltip_text_4": "MetaMask no se beneficia de las tarifas de gas.",
+    "estimated_gas_fee_tooltip_text_4": "ElonMask no se beneficia de las tarifas de gas.",
     "estimated_gas_fee_tooltip_text_5": "Las tarifas de gas las establece la red y fluctúan según el tráfico y la complejidad de la transacción.",
     "learn_more": "Obtenga más información sobre las tarifas de gas",
     "legacy_gas_suggestion_tooltip": "Esta sugerencia de tarifa de gas utiliza una estimación de datos anteriores y puede ser inexacta."
@@ -2329,7 +2329,7 @@
     "high_fees": "¿Por qué las tarifas son tan altas?",
     "missing_tokens": "Me faltan tokens...",
     "swap_issues": "No puedo hacer intercambios...",
-    "mobile_sentiment": "¿Qué le parece la versión móvil de MetaMask?",
+    "mobile_sentiment": "¿Qué le parece la versión móvil de ElonMask?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "¡Me encanta!",
@@ -2377,12 +2377,12 @@
   },
   "remember_me": {
     "enable_remember_me": "Activar Recordarme",
-    "enable_remember_me_description": "Cuando Recordarme está activado, cualquier persona con acceso a su teléfono puede acceder a su cuenta de MetaMask."
+    "enable_remember_me_description": "Cuando Recordarme está activado, cualquier persona con acceso a su teléfono puede acceder a su cuenta de ElonMask."
   },
   "turn_off_remember_me": {
     "title": "Ingrese su contraseña para desactivar Recordarme",
     "placeholder": "Contraseña",
-    "description": "Si desactiva esta opción, necesitará su contraseña para desbloquear MetaMask de ahora en adelante.",
+    "description": "Si desactiva esta opción, necesitará su contraseña para desbloquear ElonMask de ahora en adelante.",
     "action": "Desactivar Recordarme"
   },
   "dapp_connect": {
@@ -2394,11 +2394,11 @@
   },
   "automatic_security_checks": {
     "title": "Controles de seguridad automáticos",
-    "description": "La búsqueda automática de actualizaciones puede exponer su dirección IP a los servidores de GitHub. Esto solo indica que su dirección IP está usando MetaMask. No se exponen otros datos ni direcciones de cuentas."
+    "description": "La búsqueda automática de actualizaciones puede exponer su dirección IP a los servidores de GitHub. Esto solo indica que su dirección IP está usando ElonMask. No se exponen otros datos ni direcciones de cuentas."
   },
   "terms_of_use_modal": {
     "title": "Revise nuestros últimos Términos de uso",
-    "terms_of_use_check_description": "Acepto los Términos de uso, que se aplican a mi uso de MetaMask y todas sus funcionalidades",
+    "terms_of_use_check_description": "Acepto los Términos de uso, que se aplican a mi uso de ElonMask y todas sus funcionalidades",
     "accept_cta": "Aceptar",
     "accept_helper_description": "Por favor, desplácese para leer todas las secciones"
   },
@@ -2410,7 +2410,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "¿Comprobar automáticamente las actualizaciones de seguridad?",
-    "description": "La búsqueda automática de actualizaciones puede exponer su dirección IP a los servidores de GitHub. Esto solo indica que su dirección IP está usando MetaMask. No se exponen otros datos ni direcciones de cuentas.",
+    "description": "La búsqueda automática de actualizaciones puede exponer su dirección IP a los servidores de GitHub. Esto solo indica que su dirección IP está usando ElonMask. No se exponen otros datos ni direcciones de cuentas.",
     "primary_action": "Habilitar comprobaciones de seguridad automáticas",
     "secondary_action": "No, gracias"
   },
@@ -2463,7 +2463,7 @@
     "new_wallet_needed_create_try_again_action": "Intente recuperar el monedero",
     "new_wallet_needed_description_part_one": "Algo anda mal con su monedero y tendrá que crear uno nuevo. Debido a que sus cuentas están en la cadena de bloques, aún permanecen seguras. Solo desaparecen las preferencias, las redes guardadas, los nombres de cuenta y los datos relacionados guardados en su dispositivo.",
     "new_wallet_needed_description_part_two": "Para importar sus cuentas a un monedero nuevo, necesitará su frase secreta de recuperación. Si no tiene su frase secreta de recuperación, no podrá importar sus cuentas.",
-    "new_wallet_needed_description_part_three": "Para evitar que esto vuelva a ocurrir, asegúrese de mantener siempre actualizados a la última versión la aplicación de MetaMask y el sistema operativo."
+    "new_wallet_needed_description_part_three": "Para evitar que esto vuelva a ocurrir, asegúrese de mantener siempre actualizados a la última versión la aplicación de ElonMask y el sistema operativo."
   },
   "srp_security_quiz": {
     "title": "Cuestionario de seguridad",
@@ -2474,7 +2474,7 @@
     "continue": "Continuar",
     "of": "de",
     "question_one": {
-      "question": "Si extravía su frase secreta de recuperación, MetaMask...",
+      "question": "Si extravía su frase secreta de recuperación, ElonMask...",
       "right_answer": "No puede ayudarlo",
       "wrong_answer": "Puede recuperarla para usted",
       "right_answer_title": "¡Correcto! Nadie puede ayudarlo a recuperar su frase secreta de recuperación",
@@ -2537,7 +2537,7 @@
     "unknown_error_message": "Ocurrió un error inesperado. Inténtelo de nuevo.",
     "error_occured": "Ocurrió un error",
     "how_to_install_eth_app": "Cómo instalar la aplicación Ethereum en un dispositivo Ledger",
-    "ledger_account_count": "Está utilizando 1 cuenta desde su Ledger con MetaMask Mobile.",
+    "ledger_account_count": "Está utilizando 1 cuenta desde su Ledger con ElonMask Mobile.",
     "open_eth_app": "Abra la aplicación Ethereum",
     "open_eth_app_message_one": "Hemos detectado que tiene instalada la aplicación Ethereum, pero no está abierta, ",
     "open_eth_app_message_two": "presione los dos botones en el dispositivo para aceptar la solicitud de abrir la aplicación Ethereum para continuar.",
@@ -2551,7 +2551,7 @@
     "not_supported": "Operación no admitida",
     "not_supported_error": "Solo se admite la versión 4 de la firma de datos escritos.",
     "error_during_connection": "Ocurrió un error desconocido",
-    "error_during_connection_message": "Ha habido un pequeño problema al conectar su Ledger Nano X, pulse \"Reintentar\" a continuación para intentarlo de nuevo. A veces, esto ocurre debido a que la aplicación ETH de su Ledger Nano X está abierta al comienzo del proceso de emparejamiento con MetaMask Mobile.",
+    "error_during_connection_message": "Ha habido un pequeño problema al conectar su Ledger Nano X, pulse \"Reintentar\" a continuación para intentarlo de nuevo. A veces, esto ocurre debido a que la aplicación ETH de su Ledger Nano X está abierta al comienzo del proceso de emparejamiento con ElonMask Mobile.",
     "how_to_install_eth_webview_title": "Cómo instalar la aplicación Ethereum"
   },
   "account_actions": {

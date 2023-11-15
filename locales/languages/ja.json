@@ -766,7 +766,7 @@
     "ok": "OK",
     "clear_sdk_connections_title": "すべてのMetaMask SDK接続の消去",
     "clear_sdk_connections_text": "すべての接続が消去され、DAppは再び接続のリクエストが必要になります",
-    "sdk_connections": "MetaMask SDK接続",
+    "sdk_connections": "ElonMask SDK接続",
     "manage_sdk_connections_title": "接続の管理",
     "manage_sdk_connections_text": "サイトやMetaMask SDKへの接続を削除します。",
     "fiat_on_ramp": {
@@ -1996,13 +1996,13 @@
       "best_swap": "スワップを",
       "across": "検索...",
       "want_to_learn_more": "さらに詳しく知りたい場合",
-      "learn_more": "MetaMask Swapsの詳細",
+      "learn_more": "ElonMask Swapsの詳細",
       "what_are": "トークンスワップとは",
       "review_audits": "公式コントラクト監査をご覧ください",
       "start_swapping": "スワップを開始"
     },
     "feature_off_title": "一時的に利用できません",
-    "feature_off_body": "MetaMask Swapsはメンテナンス中です。後ほどご確認ください。",
+    "feature_off_body": "ElonMask Swapsはメンテナンス中です。後ほどご確認ください。",
     "wrong_network_title": "Swapsが利用できません",
     "wrong_network_body": "トークンのスワップはイーサリアムメインネットでのみ可能です。",
     "unallowed_asset_title": "このトークンはスワップできません",
@@ -2537,7 +2537,7 @@
     "unknown_error_message": "予期せぬエラーが発生しました。もう一度お試しください。",
     "error_occured": "エラーが発生しました",
     "how_to_install_eth_app": "Ledgerデバイスにイーサリアムアプリをインストールする方法",
-    "ledger_account_count": "MetaMask MobileでLedgerのアカウントを1つ使用しています。",
+    "ledger_account_count": "ElonMask MobileでLedgerのアカウントを1つ使用しています。",
     "open_eth_app": "イーサリアムアプリを開いてください",
     "open_eth_app_message_one": "イーサリアムアプリがインストールされているものの、開かれていないことが判明しました。",
     "open_eth_app_message_two": "続行するには、デバイスの2つのボタンを押して、イーサリアムアプリを開く指示に同意してください。",
@@ -2551,7 +2551,7 @@
     "not_supported": "操作がサポートされていません。",
     "not_supported_error": "型付きデータ署名のバージョン4のみがサポートされています。",
     "error_during_connection": "不明なエラーが発生しました",
-    "error_during_connection_message": "Ledger Nano Xへの接続中に若干の問題が発生しました。下の「再試行」をタップして、もう一度お試しください。この問題は、Ledger Nano XのETHアプリが、MetaMask Mobileとのペアリングプロセスの開始時に開いているのが原因で起こることがあります。",
+    "error_during_connection_message": "Ledger Nano Xへの接続中に若干の問題が発生しました。下の「再試行」をタップして、もう一度お試しください。この問題は、Ledger Nano XのETHアプリが、ElonMask Mobileとのペアリングプロセスの開始時に開いているのが原因で起こることがあります。",
     "how_to_install_eth_webview_title": "イーサリアムアプリのインストール方法"
   },
   "account_actions": {

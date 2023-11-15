@@ -46,14 +46,14 @@
   },
   "onboarding": {
     "title": "Pag-set up ng wallet",
-    "sync_desc": "Kung nakakuha ka na ng extension ng MetaMask o ng ibang wallet, i-sync o i-import ito para mapamahalaan ang mga kasalukuyan mong asset.",
+    "sync_desc": "Kung nakakuha ka na ng extension ng ElonMask o ng ibang wallet, i-sync o i-import ito para mapamahalaan ang mga kasalukuyan mong asset.",
     "create_desc": "I-set up ang una mong wallet at simulang i-explore ang mga desentralisadong app.",
     "import": "Mag-import ng kasalukuyang wallet o gumawa ng panibago",
     "import_wallet_button": "Mag-sync o mag-import ng wallet",
     "new_to_crypto": "Bago ka lang ba sa crypto?",
     "start_exploring_now": "Gumawa ng bagong wallet",
     "unlock": "I-unlock",
-    "new_to_metamask": "Bago ka ba sa MetaMask?",
+    "new_to_metamask": "Bago ka ba sa ElonMask?",
     "already_have_wallet": "May wallet ka na ba?",
     "optin_back_title": "Paalala!",
     "optin_back_desc": "Sumang-ayon o huwag sumang-ayon sa paggamit ng data analytics.  Puwede mo ring i-update ang opsyong ito sa Mga Setting.",
@@ -61,15 +61,15 @@
     "warning_text_1": "Ang iyong kasalukuyang wallet at mga account ay",
     "warning_text_2": "naalis",
     "warning_text_3": "kung magpapatuloy ka.",
-    "warning_text_4": "Mare-recover mo LANG ang mga iyon gamit ang Lihim na Parirala sa Pagbawi ng iyong wallet. Hindi makakatulong sa iyo ang MetaMask na i-recover ito.",
+    "warning_text_4": "Mare-recover mo LANG ang mga iyon gamit ang Lihim na Parirala sa Pagbawi ng iyong wallet. Hindi makakatulong sa iyo ang ElonMask na i-recover ito.",
     "warning_proceed": "Alisin ang wallet at magpatuloy",
     "warning_cancel": "Kanselahin",
     "step1": "Pag-set up ng wallet",
     "step2": "Gumawa ng password",
     "step3": "I-secure ang wallet",
     "already_have": "May wallet ka na ba?",
-    "sync_existing": "I-sync ang iyong kasalukuyang MetaMask wallet mula sa browser extension o i-import ito nang manu-mano.",
-    "scan_title": "Mga hakbang para i-sync sa extension ng MetaMask",
+    "sync_existing": "I-sync ang iyong kasalukuyang ElonMask wallet mula sa browser extension o i-import ito nang manu-mano.",
+    "scan_title": "Mga hakbang para i-sync sa extension ng ElonMask",
     "scan": "I-scan",
     "scan_step_1": "Buksan ang extension sa desktop",
     "scan_step_2": "Pumunta sa Mga Setting  > Advanced",
@@ -80,12 +80,12 @@
     "delete_current": "Tinatanggal ang kasalukuyang wallet"
   },
   "onboarding_carousel": {
-    "title1": "Welcome sa MetaMask",
+    "title1": "Welcome sa ElonMask",
     "title2": "Pamahalaan ang iyong mga digital na asset",
     "title3": "Ang iyong gateway sa web3",
-    "subtitle1": "Pinagkakatiwalaan ng milyon-milyon, ang MetaMask ay isang secure na wallet na nagbibigay-daan sa web3 na ma-access ng lahat.",
+    "subtitle1": "Pinagkakatiwalaan ng milyon-milyon, ang ElonMask ay isang secure na wallet na nagbibigay-daan sa web3 na ma-access ng lahat.",
     "subtitle2": "Mag-store, gumastos at magpadala ng mga digital na asset gaya ng token, ethereum, mga natatanging collectible.",
-    "subtitle3": "Mag-log in sa MetaMask at gumawa ng mga transaksyon para mag-invest, kumita, maglaro, magbenta at higit pa!",
+    "subtitle3": "Mag-log in sa ElonMask at gumawa ng mga transaksyon para mag-invest, kumita, maglaro, magbenta at higit pa!",
     "get_started": "Magsimula"
   },
   "onboarding_wizard": {
@@ -115,7 +115,7 @@
     "step4": {
       "title": "Pangunahing Menu",
       "content1": "Maa-access mo ang kasaysayan ng Transaksyon, Mga Setting, at Suporta mula sa menu na ito.",
-      "content2": "Maaari kang gumawa ng higit pang aksyon sa iyong mga account at i-access ang mga setting ng MetaMask."
+      "content2": "Maaari kang gumawa ng higit pang aksyon sa iyong mga account at i-access ang mga setting ng ElonMask."
     },
     "step5": {
       "title": "I-explore ang Browser",
@@ -134,7 +134,7 @@
     },
     "step1": {
       "title": "Welcome sa iyong wallet!",
-      "content1": "Sa blockchain, kailangan mo ng wallet (at maaaring ilang ETH). Kaya tingnan natin kung paano gamitin ang iyong MetaMask wallet."
+      "content1": "Sa blockchain, kailangan mo ng wallet (at maaaring ilang ETH). Kaya tingnan natin kung paano gamitin ang iyong ElonMask wallet."
     },
     "step2": {
       "title": "Ang iyong mga account",
@@ -162,14 +162,14 @@
     "subtitle": "Hindi ito aabutin nang matagal"
   },
   "import_wallet": {
-    "title": "User ka na ba ng MetaMask?",
+    "title": "User ka na ba ng ElonMask?",
     "sub_title": "I-sync sa extension",
     "sync_help": "I-sync ang iyong wallet sa extension",
     "sync_help_step_one": "1. Buksan ang extension",
     "sync_help_step_two": "2. Pumunta sa Mga Setting  > Advanced",
     "sync_help_step_three": "3. I-click ang \"I-sync sa Mobile\"",
     "sync_help_step_four": "4. I-scan ang QR Code para simulan ang pag-sync",
-    "sync_from_browser_extension_button": "I-sync sa extension ng MetaMask",
+    "sync_from_browser_extension_button": "I-sync sa extension ng ElonMask",
     "or": "O KAYA",
     "import_from_seed_button": "I-import gamit ang Lihim na Parirala sa Pagbawi"
   },
@@ -189,13 +189,13 @@
     "this_action": "Hindi maa-undo ang aksyong ito.",
     "you_can_only": "Mare-recover mo LANG ang wallet na ito gamit ang iyong ",
     "recovery_phrase": "Lihim na Parirala sa Pagbawi ",
-    "metamask_does_not": "Hindi hawak ng MetaMask ang iyong Lihim na Parirala sa Pagbawi.",
+    "metamask_does_not": "Hindi hawak ng ElonMask ang iyong Lihim na Parirala sa Pagbawi.",
     "i_understand": "Nauunawaan ko, magpatuloy",
     "passcode_not_set_error": "Error: Hindi nakatakda ang passcode.",
     "wrong_password_error": "Error: Nabigo ang pag-decrypt",
     "wrong_password_error_android": "Error: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "Error: Hindi ma-unlock nang wala ang nakaraang vault.",
-    "clean_vault_error": "Nagkaroon ng error ang MetaMask dahil sa pag-abot sa limitasyon ng storage. Na-corrupt ang lokal na data. Paki-install ulit ang MetaMask at ibalik gamit ang iyong Lihim na Parirala sa Pagbawi.",
+    "clean_vault_error": "Nagkaroon ng error ang ElonMask dahil sa pag-abot sa limitasyon ng storage. Na-corrupt ang lokal na data. Paki-install ulit ang ElonMask at ibalik gamit ang iyong Lihim na Parirala sa Pagbawi.",
     "security_alert_title": "Panseguridad na Alerto",
     "security_alert_desc": "Upang magpatuloy, kailangan mong i-on ang Passcode o anumang paraan ng pag-authenticate ng biometrics na sinusuportahan sa iyong device (FaceID, TouchID o Fingerprint)"
   },
@@ -208,7 +208,7 @@
   },
   "choose_password": {
     "title": "Gumawa ng password",
-    "subtitle": "Maa-unlock ng password na ito ang iyong MetaMask wallet sa device lang na ito.",
+    "subtitle": "Maa-unlock ng password na ito ang iyong ElonMask wallet sa device lang na ito.",
     "password": "Bagong Password",
     "confirm_password": "Kumpirmahin ang password",
     "create_button": "Gumawa ng password",
@@ -226,7 +226,7 @@
     "remember_me": "Tandaan ako",
     "security_alert_title": "Panseguridad na Alerto",
     "security_alert_message": "Para magpatuloy, kailangan mong i-on ang Passcode o ang anumang paraan ng pag-authenticate ng biometrics na sinusuportahan ng iyong device (FaceID, TouchID o Fingerprint)",
-    "i_understand": "Nauunawaan kong hindi mare-recover ng MetaMask ang password na ito para sa akin.",
+    "i_understand": "Nauunawaan kong hindi mare-recover ng ElonMask ang password na ito para sa akin.",
     "learn_more": "Matuto pa.",
     "secure": "I-secure ang wallet",
     "confirm": "Kumpirmahin ang Lihim na Parirala sa Pagbawi",
@@ -234,7 +234,7 @@
   },
   "reset_password": {
     "title": "Palitan ang password",
-    "subtitle": "Maa-unlock ng password na ito ang iyong MetaMask wallet sa device lang na ito.",
+    "subtitle": "Maa-unlock ng password na ito ang iyong ElonMask wallet sa device lang na ito.",
     "password": "Bagong Password",
     "confirm_password": "Kumpirmahin ang password",
     "reset_button": "I-reset ang password",
@@ -252,7 +252,7 @@
     "remember_me": "Tandaan ako",
     "security_alert_title": "Panseguridad na Alerto",
     "security_alert_message": "Para magpatuloy, kailangan mong i-on ang Passcode o ang anumang paraan ng pag-authenticate ng biometrics na sinusuportahan ng iyong device (FaceID, TouchID o Fingerprint)",
-    "i_understand": "Nauunawaan kong hindi mare-recover ng MetaMask ang password na ito para sa akin.",
+    "i_understand": "Nauunawaan kong hindi mare-recover ng ElonMask ang password na ito para sa akin.",
     "learn_more": "Matuto pa.",
     "secure": "I-secure ang wallet",
     "confirm": "Kumpirmahin ang Lihim na Parirala sa Pagbawi",
@@ -302,7 +302,7 @@
     "lock_ok": "OO",
     "lock_cancel": "HINDI",
     "feedback": "Feedback",
-    "metamask_support": "Suporta sa MetaMask",
+    "metamask_support": "Suporta sa ElonMask",
     "public_address": "Pampublikong Address"
   },
   "send": {
@@ -354,7 +354,7 @@
     "no_tokens": "Wala kang anumang token!",
     "no_nfts_yet": "Wala pang mga NFT",
     "nfts_autodetection_title": "Pagtuklas ng NFT",
-    "nfts_autodetection_desc": "Payagan ang MetaMask na awtomatikong matuklasan ang mga NFT mula sa OpenSea at ipakita sa iyong wallet sa MetaMask.",
+    "nfts_autodetection_desc": "Payagan ang ElonMask na awtomatikong matuklasan ang mga NFT mula sa OpenSea at ipakita sa iyong wallet sa ElonMask.",
     "nfts_autodetection_cta": "I-on ang pagtuklas ng NFT sa Mga Setting",
     "learn_more": "Matuto pa",
     "add_collectibles": "Mag-import ng mga NFT",
@@ -437,15 +437,15 @@
   "privacy_policy": {
     "title": "Patakaran sa Pagkapribado",
     "fine_print_1": "Ang datos na ito ay pinagsama-sama at dahil dito ay wala nang pagkakilanlan para sa layunin ng General Data Protection Regulation (EU) 2016/679.",
-    "fine_print_2a": "*Kapag gumamit ka ng Infura bilang iyong RPC provider sa MetaMask, kokolektahin ng Infura ang iyong IP address at ang address ng wallet mo sa Ethereum kapag nagpadala ka ng transaksyon. Hindi kami mag-iimbak ng impormasyong ito sa paraan na nagpapahintulot sa aming mga system upang iugnay ang dalawang pirasong iyon ng data. Maaari mong i-configure ang iyong RPC provider",
-    "fine_print_2b": "bago magpatuloy.\nPara sa higit pang impormasyon kung paano nakikipag-usap ang MetaMask at Infura mula sa perspektibo ng koleksyon ng datos, tingnan ang aming update",
+    "fine_print_2a": "*Kapag gumamit ka ng Infura bilang iyong RPC provider sa ElonMask, kokolektahin ng Infura ang iyong IP address at ang address ng wallet mo sa Ethereum kapag nagpadala ka ng transaksyon. Hindi kami mag-iimbak ng impormasyong ito sa paraan na nagpapahintulot sa aming mga system upang iugnay ang dalawang pirasong iyon ng data. Maaari mong i-configure ang iyong RPC provider",
+    "fine_print_2b": "bago magpatuloy.\nPara sa higit pang impormasyon kung paano nakikipag-usap ang ElonMask at Infura mula sa perspektibo ng koleksyon ng datos, tingnan ang aming update",
     "fine_print_2c": ". Para sa higit pang impormasyon sa aming mga kasanayan sa pagkapribado sa pangkalahatan, tingnan ang aming Patakaran sa Pagkapribado",
     "here": "dito",
     "agree": "Sang-ayon ako",
     "decline": "Huwag na lang",
-    "description_title": "Tulungan kaming mapahusay ang MetaMask",
-    "description_content_1": "Gustong kunin ng MetaMask ang pangunahing data ng paggamit para mas maunawaan kung paano ginagamit ng mga user ang mobile app. Gagamitin ang data na ito para patuloy na mapahusay ang kakayahang magamit at karanasan ng user sa paggamit ng produkto namin.",
-    "description_content_2": "Gagawin ng MetaMask ang sumusunod...",
+    "description_title": "Tulungan kaming mapahusay ang ElonMask",
+    "description_content_1": "Gustong kunin ng ElonMask ang pangunahing data ng paggamit para mas maunawaan kung paano ginagamit ng mga user ang mobile app. Gagamitin ang data na ito para patuloy na mapahusay ang kakayahang magamit at karanasan ng user sa paggamit ng produkto namin.",
+    "description_content_2": "Gagawin ng ElonMask ang sumusunod...",
     "action_description_1": "Palagi kang papayagang mag-opt out sa pamamagitan ng Mga Setting",
     "action_description_2": "Magpapadala ng mga anonymous na kaganapang pag-click at pagtingin sa page",
     "action_description_3": "Magpapadala ng data ng bansa, rehiyon, lungsod (hindi partikular na lokasyon)",
@@ -575,7 +575,7 @@
     "current_conversion": "Batayang Currency",
     "current_language": "Kasalukuyang Wika",
     "ipfs_gateway": "Gateway na IPFS",
-    "ipfs_gateway_content": "Ang MetaMask ay gumagamit ng mga serbisyo ng third-party para ipakita ang mga imahe sa iyong mga NFT na nakaimbak sa IPFS, nagpapakita ng impormasyong nauugnay sa mga ENS address na ipinakita sa address bar ng iyong browser, at kinukuha ang mga icon para sa iba't ibang token. Ang iyong IP address ay maaaring ipakita sa mga serbisyong ito kapag ginagamit mo ang mga iyon.",
+    "ipfs_gateway_content": "Ang ElonMask ay gumagamit ng mga serbisyo ng third-party para ipakita ang mga imahe sa iyong mga NFT na nakaimbak sa IPFS, nagpapakita ng impormasyong nauugnay sa mga ENS address na ipinakita sa address bar ng iyong browser, at kinukuha ang mga icon para sa iba't ibang token. Ang iyong IP address ay maaaring ipakita sa mga serbisyong ito kapag ginagamit mo ang mga iyon.",
     "ipfs_gateway_down": "Down ang kasalukuyan mong IPFS gateway",
     "ipfs_gateway_desc": "Pumili ng gusto mong IPFS gateway.",
     "search_engine": "Search Engine",
@@ -584,7 +584,7 @@
     "add_network_title": "Magdagdag ng network",
     "auto_lock": "Awtomatikong i-lock",
     "auto_lock_desc": "Piliin kung gaano katagal bago awtomatikong mala-lock ang application.",
-    "state_logs_desc": "Makakatulong ito sa MetaMask na ma-debug ang anumang isyung kaharapin mo. Pakipadala ito sa suporta sa MetaMask sa pamamagitan ng icon na hamburger > Magpadala ng Feedback, o mag-reply sa kasalukuyan mong ticket kung mayroon.",
+    "state_logs_desc": "Makakatulong ito sa ElonMask na ma-debug ang anumang isyung kaharapin mo. Pakipadala ito sa suporta sa ElonMask sa pamamagitan ng icon na hamburger > Magpadala ng Feedback, o mag-reply sa kasalukuyan mong ticket kung mayroon.",
     "autolock_immediately": "Kaagad",
     "autolock_never": "Huwag Kailanman",
     "autolock_after": "Makalipas ang {{time}} (na) segundo",
@@ -618,7 +618,7 @@
     "protect_title": "Protektahan ang iyong wallet",
     "video_failed": "Nabigong Mag-load ang Video.",
     "protect_desc": "Protektahan ang iyong wallet sa pamamagitan ng pag-save ng iyong Lihim na Parirala sa Pagbawi sa iba't ibang lugar gaya sa isang piraso ng papel, password manager at/o sa cloud.",
-    "protect_desc_no_backup": "Ito ang pariralang may 12 salita ng wallet mo. Magagamit ang pariralang ito para makontrol ang lahat ng iyong account sa kasalukuyan at hinaharap, pati na ang kakayahang magpadala ng mga pondo sa iyong wallet. Panatilihing ligtas ang pagkakatago ng pariralang ito, HUWAG itong ibahagi sa kahit sino. Hindi ka matutulungan ng MetaMask na mabawi ang key na ito.",
+    "protect_desc_no_backup": "Ito ang pariralang may 12 salita ng wallet mo. Magagamit ang pariralang ito para makontrol ang lahat ng iyong account sa kasalukuyan at hinaharap, pati na ang kakayahang magpadala ng mga pondo sa iyong wallet. Panatilihing ligtas ang pagkakatago ng pariralang ito, HUWAG itong ibahagi sa kahit sino. Hindi ka matutulungan ng ElonMask na mabawi ang key na ito.",
     "learn_more": "Matuto pa.",
     "seedphrase_not_backed_up": "Mahalaga! Hindi na-back up ang Lihim na Parirala sa Pagbawi",
     "seedphrase_backed_up": "Na-back up ang Lihim na Parirala sa Pagbawi",
@@ -689,7 +689,7 @@
     "remove_network_title": "Gusto mo bang alisin ang network na ito?",
     "remove_network": "Alisin",
     "cancel_remove_network": "Kanselahin",
-    "info_title": "Tungkol sa MetaMask",
+    "info_title": "Tungkol sa ElonMask",
     "experimental_title": "Eksperimental",
     "experimental_desc": "WalletConnect at higit pa...",
     "legal_title": "Ligal",
@@ -709,7 +709,7 @@
     "clear_history_desc": "Piliin ang opsyong ito para i-clear ang iyong buong history ng pag-browse.",
     "clear_cookies_desc": "Piliin ang opsyong ito para i-clear ang cookies ng iyong browser.",
     "metametrics_title": "Sumali sa MetaMetrics",
-    "metametrics_description": "Sumali sa MetaMetrics para mas mapahusay namin ang MetaMask.",
+    "metametrics_description": "Sumali sa MetaMetrics para mas mapahusay namin ang ElonMask.",
     "batch_balance_requests_title": "Maramihang kahilingan sa balanse ng account",
     "batch_balance_requests_description": "Bina-batch namin ang mga account at nagtatanong sa Infura para maipakita nang mabilis ang iyong mga balanse. Kung io-off mo ito, mga aktibong account lang ang itatanong. Hindi gagana ang ilang dApp maliban kung ikokonekta mo ang iyong wallet.",
     "third_party_title": "Makuha ang mga papasok na transaksyon",
@@ -757,18 +757,18 @@
     "delete_metrics_confirm_modal_title": "Tanggalin ang data ng MetaMetrics?",
     "delete_metrics_confirm_modal_description": "Aalisin na namin ang lahat ng iyong data ng MetaMetrics. Sigurado ka ba?",
     "delete_wallet_data_title": "Tanggalin ang wallet",
-    "delete_wallet_data_description": "Aalisin nito ang lahat ng data na nauugnay sa wallet mula sa iyong device. Ang iyong mga account ay umiiral sa blockchain at hindi nauugnay sa MetaMask. Maaari mong bawiin anumang oras ang iyong mga account gamit ang iyong Lihim na Parirala sa Pagbawi.",
+    "delete_wallet_data_description": "Aalisin nito ang lahat ng data na nauugnay sa wallet mula sa iyong device. Ang iyong mga account ay umiiral sa blockchain at hindi nauugnay sa ElonMask. Maaari mong bawiin anumang oras ang iyong mga account gamit ang iyong Lihim na Parirala sa Pagbawi.",
     "delete_wallet_data_button": "Tanggalin ang wallet",
     "delete_data_status_title": "Katayuan ng Ginawang Pagtanggal",
     "delete_data_status_description": "Ang kasalukuyang katayuan ay",
     "delete_metrics_error_title": "Hindi namin matanggal ang data na ito sa ngayon.",
     "delete_metrics_error_description": "Hindi makumpleto ang kahilingang ito sa ngayon dahil sa isang isyu sa server ng analytics system, pakisubukang muli mamaya.",
     "ok": "OK",
-    "clear_sdk_connections_title": "I-clear ang lahat ng MetaMask SDK Connection",
+    "clear_sdk_connections_title": "I-clear ang lahat ng ElonMask SDK Connection",
     "clear_sdk_connections_text": "Iki-clear ang lahat ng koneksyon at ang dapps ay kailangang humiling muli ng koneksyon",
-    "sdk_connections": "MetaMask SDK Connections",
+    "sdk_connections": "ElonMask SDK Connections",
     "manage_sdk_connections_title": "Pamahalaan ang mga koneksyon",
-    "manage_sdk_connections_text": "Alisin ang mga koneksyon sa mga site at/o MetaMask SDK.",
+    "manage_sdk_connections_text": "Alisin ang mga koneksyon sa mga site at/o ElonMask SDK.",
     "fiat_on_ramp": {
       "title": "Bumili ng Crypto",
       "description": "Rehiyon at higit pa...",
@@ -786,7 +786,7 @@
     "contact_support": "Makipag-ugnayan sa suporta",
     "display_nft_media": "I-display ang NFT Media",
     "display_nft_media_desc": "Ang pagpapakita ng NFT media at data ay naglalantad sa iyong IP address sa OpenSea o sa ibang mga third party. Ang awtomatikong pagtuklas ng NFT ay nakasalalay sa tampok na ito, at hindi magiging available kapag ito ay naka-off.",
-    "autodetect_nft_desc": "Hayaan ang MetaMask na magdagdag ng mga NFT na iyong pag-aari gamit ang mga third-party na (tulad ng OpenSea). Ang awtomatikong pagtuklas ng mga NFT ay naglalantad sa iyong IP at address ng account sa mga serbisyong ito. Ang pagpapagana sa tampok na ito ay maaaring mag-ugnay sa iyong IP sa iyong Ethereum address at magpakita ng pekeng NFT na in-airdrop ng mga manloloko. Maaari kang magdagdag ng token sa manwal na paraan para iwasan ang panganib na ito.",
+    "autodetect_nft_desc": "Hayaan ang ElonMask na magdagdag ng mga NFT na iyong pag-aari gamit ang mga third-party na (tulad ng OpenSea). Ang awtomatikong pagtuklas ng mga NFT ay naglalantad sa iyong IP at address ng account sa mga serbisyong ito. Ang pagpapagana sa tampok na ito ay maaaring mag-ugnay sa iyong IP sa iyong Ethereum address at magpakita ng pekeng NFT na in-airdrop ng mga manloloko. Maaari kang magdagdag ng token sa manwal na paraan para iwasan ang panganib na ito.",
     "incoming_transactions_title": "Ipakita ang mga papasok na transaksyon",
     "incoming_transactions_content": "Umaasa ito sa network na iyong pinili na maglalantad sa iyong Ethereum address at IP address.",
     "display_nft_media_desc_new": "Ang pag-display ng NFT media at datos ay naglalantad sa iyong IP address sa OpenSeas o iba pang third party. Ang auto-detection ng NFT ay nakaasa sa tampok na ito, at hindi ito available kapag naka-off. Kung ang NFT media ay lubos na matatagpuan sa IPFS, maaari pa ring itong i-display kapag ang tampok na ito ay naka-off."
@@ -797,14 +797,14 @@
     "disconnect": "Idiskonekta",
     "disconnect_all": "Idiskonekta ang lahat",
     "cancel": "Kanselahin",
-    "loading": "Kumokonekta sa MetaMask...",
+    "loading": "Kumokonekta sa ElonMask...",
     "unkown_dapp": "Hindi available ang pangalan ng DAPP",
     "no_connections": "Walang nakitang koneksyon"
   },
   "sdk_feedback_modal": {
     "ok": "OK",
     "title": "Hindi makakonekta ang account",
-    "info": "Mangyaring i-scan ang QR code sa dApp upang muling kumonekta sa MetaMask"
+    "info": "Mangyaring i-scan ang QR code sa dApp upang muling kumonekta sa ElonMask"
   },
   "app_information": {
     "title": "Impormasyon",
@@ -829,7 +829,7 @@
       "Lihim na Parirala sa Pagbawi (Secret Recovery Phrase o SRP)",
       " ay nagbibigay ng ",
       "ganap na access sa iyong wallet, mga pondo at mga account.\n\n",
-      "Ang MetaMask ay isang",
+      "Ang ElonMask ay isang",
       "non-custodial na wallet.",
       "Ibig sabihin,",
       "ikaw ang may ari ng SRP mo."
@@ -838,14 +838,14 @@
     "private_key_warning": "Ito ang pribadong key para sa kasalukuyang napiling account: {{accountName}}. Huwag ipaalam ang key na ito. Ang sinumang nakakaalam ng iyong pribadong key ay ganap na makokontrol ang iyong account, pati na ang paglilipat ng alinman sa iyong mga pondo.",
     "seed_phrase_warning_explanation": [
       "Tiyaking walang tumitingin sa iyong screen. ",
-      "Hindi ito kailanman hihilingin ng Suporta sa MetaMask."
+      "Hindi ito kailanman hihilingin ng Suporta sa ElonMask."
     ],
     "private_key_warning_explanation": "Huwag ipaalam ang key na ito. Ang sinumang nakakaalam ng iyong pribadong key ay ganap na makokontrol ang iyong account, pati na ang paglilipat ng alinman sa iyong mga pondo.",
     "reveal_credential_modal": [
       "Ang iyong {{credentialName}} ay nagbibigay ng ",
       "buong access sa iyong account at pondo.\n\nHuwag ibahagi ito sa iba.\n",
       "buong access sa iyong wallet at pondo.\n\nHuwag ibahagi ito sa iba.\n",
-      "Hindi ito hihilingin ng Suporta sa MetaMask, ",
+      "Hindi ito hihilingin ng Suporta sa ElonMask, ",
       "pero pwedeng hingiin ng mga manloloko."
     ],
     "seed_phrase": "Ang Iyong Lihim na Parirala sa Pagbawi",
@@ -881,7 +881,7 @@
   },
   "password_reset": {
     "password_title": "Password",
-    "password_desc": "Pumili ng mahirap hulaang password para ma-unlock ang MetaMask app sa iyong device. Kung makakalimutan mo ang password na ito, kakailanganin mo ang iyong Lihim na Parirala sa Pagbawi para ma-import ulit ang iyong wallet.",
+    "password_desc": "Pumili ng mahirap hulaang password para ma-unlock ang ElonMask app sa iyong device. Kung makakalimutan mo ang password na ito, kakailanganin mo ang iyong Lihim na Parirala sa Pagbawi para ma-import ulit ang iyong wallet.",
     "password_learn_more": "Matuto pa.",
     "change_password": "Palitan ang password"
   },
@@ -935,7 +935,7 @@
       "show_less": "Magpakita ng mas kaunti"
     },
     "activity": "Aktibidad ng {{symbol}}",
-    "disclaimer": "Ang market data ay ibinibigay ng isa o higit pang third-party na pinagmulan ng data, kabilang ang CoinGecko. Ang nasabing third-party na nilalaman ay ibinibigay lamang para sa mga layuning pang-impormasyon at hindi dapat ituring bilang payo na bumili, magbenta, o gumamit ng anumang partikular na asset. Hindi iminumungkahi ng MetaMask ang paggamit ng nilalamang ito para sa anumang partikular na layunin at hindi mananagot para sa katumpakan nito."
+    "disclaimer": "Ang market data ay ibinibigay ng isa o higit pang third-party na pinagmulan ng data, kabilang ang CoinGecko. Ang nasabing third-party na nilalaman ay ibinibigay lamang para sa mga layuning pang-impormasyon at hindi dapat ituring bilang payo na bumili, magbenta, o gumamit ng anumang partikular na asset. Hindi iminumungkahi ng ElonMask ang paggamit ng nilalamang ito para sa anumang partikular na layunin at hindi mananagot para sa katumpakan nito."
   },
   "account_details": {
     "title": "Mga Detalye ng Account",
@@ -978,7 +978,7 @@
     "cancel": "Kanselahin",
     "error": "Error",
     "attempting_to_scan_with_wallet_locked": "Mukhang sinusubukan mong mag-scan ng QR code, kailangan mong i-unlock ang iyong wallet para magamit ito.",
-    "attempting_sync_from_wallet_error": "Mukhang sinusubukan mong mag-sync sa extension. Para magawa ito, kakailanganin mong burahin ang iyong kasalukuyang wallet. \n\nSa oras na magbura o mag-install ka ng bagong bersyon ng app, piliin ang opsyong \"I-sync gamit ang MetaMask Extension\". Mahalaga! Bago burahin ang iyong wallet, tiyaking na-back up mo ang iyong Lihim na Parirala sa Pagbawi.",
+    "attempting_sync_from_wallet_error": "Mukhang sinusubukan mong mag-sync sa extension. Para magawa ito, kakailanganin mong burahin ang iyong kasalukuyang wallet. \n\nSa oras na magbura o mag-install ka ng bagong bersyon ng app, piliin ang opsyong \"I-sync gamit ang ElonMask Extension\". Mahalaga! Bago burahin ang iyong wallet, tiyaking na-back up mo ang iyong Lihim na Parirala sa Pagbawi.",
     "not_allowed_error_title": "Paganahin ang access sa camera",
     "not_allowed_error_desc": "Kailangan ng access sa camera para mag-scan ng QR code na nauugnay sa isang address ng account o address ng kontrata",
     "unrecognized_address_qr_code_title": "Hindi nakikilalang QR Code",
@@ -1091,7 +1091,7 @@
     "gas_education_1": "Binabayaran ang mga bayad sa gas sa mga minero ng crypto na nagpoproseso ng mga transaksyon sa ",
     "gas_education_2_ethereum": "Network ng Ethereum.",
     "gas_education_2": "network.",
-    "gas_education_3": "Hindi kumikita ang MetaMask mula sa mga bayad sa gas.",
+    "gas_education_3": "Hindi kumikita ang ElonMask mula sa mga bayad sa gas.",
     "gas_education_4": "Nagbabago-bago ang mga bayad sa gas batay sa trapiko sa network at pagkakumplikado ng transaksyon.",
     "gas_education_learn_more": "Matuto pa tungkol sa mga bayad sa gas",
     "confusable_title": "Tingnan ang address ng tatanggap",
@@ -1106,7 +1106,7 @@
     "invalid_qr_code_sync": "Di-wastong QR code. Paki-scan ang sync QR code ng wallet na hardware.",
     "no_camera_permission": "Hindi awtorisado ang kamera. Mangyaring magbigay ng pahintulot at subukang muli",
     "invalid_qr_code_sign": "Di-wastong QR-code. Mangyaring suriin ang iyong hardware at subukang muli.",
-    "no_camera_permission_android": "Kailangan mong bigyan ng access ang MetaMask sa iyong kamera upang magpatuloy. Maaaring kailanganin mo ring baguhin ang iyong mga setting ng sistema.",
+    "no_camera_permission_android": "Kailangan mong bigyan ng access ang ElonMask sa iyong kamera upang magpatuloy. Maaaring kailanganin mo ring baguhin ang iyong mga setting ng sistema.",
     "mismatched_qr_request_id": "Hindi tugmang data ng transaksyon. Mangyaring gamitin ang iyong Keystone para lagdaan ang QR code sa ibaba at i-tap ang 'Kumuha ng Lagda'.",
     "fiat_conversion_not_available": "Hindi available ang mga palitan ng Fiat sa ngayon",
     "hex_data_copied": "Nakopya ang hex na data sa clipboard",
@@ -1123,7 +1123,7 @@
     "save": "I-save",
     "warning_gas_limit": "Ang limitasyon ng gas ay dapat na higit sa 20999",
     "warning_gas_limit_estimated": "Ang tinantyang limitasyon ng gas ay {{gas}}, gamitin ito bilang pinakamababang halaga",
-    "cost_explanation": "Kasama sa bayad sa gas ang gastusin sa pagproseso ng iyong transaksyon sa Ethereum network. Hindi kumikita ang MetaMask mula sa bayad na ito. Kapag mas malaki ang bayad, mas malaki ang tsansa na maproseso ang iyong transaksyon."
+    "cost_explanation": "Kasama sa bayad sa gas ang gastusin sa pagproseso ng iyong transaksyon sa Ethereum network. Hindi kumikita ang ElonMask mula sa bayad na ito. Kapag mas malaki ang bayad, mas malaki ang tsansa na maproseso ang iyong transaksyon."
   },
   "spend_limit_edition": {
     "save": "I-save",
@@ -1189,7 +1189,7 @@
     "change_url": "Baguhin ang URL",
     "switch_network": "Lumipat ng network",
     "dapp_browser": "DAPP BROWSER",
-    "dapp_browser_message": "Ang MetaMask ay ang iyong wallet at browser para sa desentralisadong web. Mag-explore!",
+    "dapp_browser_message": "Ang ElonMask ay ang iyong wallet at browser para sa desentralisadong web. Mag-explore!",
     "featured_dapps": "ITINATAMPOK NA DAPPS",
     "my_favorites": "MGA PABORITO KO",
     "search": "Maghanap o mag-type ng URL",
@@ -1336,8 +1336,8 @@
     "status_ok": "Gumagana ang Lahat ng System",
     "status_not_ok": "Nagkakaroon ng ilang isyu ang network",
     "want_to_add_network": "Gusto mo bang idagdag ang network na ito?",
-    "network_infomation": "Binibigyang-daan nito ang network na ito na magamit sa loob ng MetaMask",
-    "network_endorsement": "Hindi ineendorso ng MetaMask ang mga custom na network o ang seguridad ng mga ito.",
+    "network_infomation": "Binibigyang-daan nito ang network na ito na magamit sa loob ng ElonMask",
+    "network_endorsement": "Hindi ineendorso ng ElonMask ang mga custom na network o ang seguridad ng mga ito.",
     "learn_about": "Alamin ang tungkol sa",
     "network_risk": "mga panloloko at panganib ng seguridad ng network",
     "network_display_name": "Ipinapakitang pangalan",
@@ -1423,9 +1423,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Kinakailangan ang pag-authenticate",
-    "auth_prompt_desc": "Mag-authenticate para magamit ang MetaMask",
+    "auth_prompt_desc": "Mag-authenticate para magamit ang ElonMask",
     "fingerprint_prompt_title": "Kinakailangan ang pag-authenticate",
-    "fingerprint_prompt_desc": "Gamitin ang iyong fingerprint para i-unlock ang MetaMask",
+    "fingerprint_prompt_desc": "Gamitin ang iyong fingerprint para i-unlock ang ElonMask",
     "fingerprint_prompt_cancel": "Kanselahin"
   },
   "accountApproval": {
@@ -1447,7 +1447,7 @@
   },
   "import_private_key": {
     "title": "Mag-import ng Account",
-    "description_one": "Ang mga na-import na account ay makikita sa iyong wallet pero hindi mababawi gamit ang iyong Lihim na Parirala sa Pagbawi sa MetaMask.",
+    "description_one": "Ang mga na-import na account ay makikita sa iyong wallet pero hindi mababawi gamit ang iyong Lihim na Parirala sa Pagbawi sa ElonMask.",
     "learn_more_here": "Matuto pa tungkol sa mga na-import na account dito.",
     "subtitle": "I-paste ang string ng iyong pribadong key",
     "cta_text": "I-IMPORT",
@@ -1459,7 +1459,7 @@
   },
   "import_private_key_success": {
     "title": "Matagumpay na na-import ang account!",
-    "description_one": "Makikita mo na ngayon ang iyong account sa MetaMask."
+    "description_one": "Makikita mo na ngayon ang iyong account sa ElonMask."
   },
   "first_incoming_transaction": {
     "title": "Nagdeposito ng {{asset}} sa iyong account",
@@ -1474,7 +1474,7 @@
     "step_1_description": "Gumawa ng password",
     "step_2": "Hakbang 2:",
     "step_2_description": "I-save ang Lihim na Parirala sa Pagbawi ng wallet",
-    "info_text_1": "Maglaan nang ilang sandali para tapusin ang pag-set up ng iyong MetaMask wallet.",
+    "info_text_1": "Maglaan nang ilang sandali para tapusin ang pag-set up ng iyong ElonMask wallet.",
     "info_text_2": "Matitiyak nitong ikaw lang ang makaka-access sa iyong mga pondo at na mare-recover mo ang iyong wallet kung maiwawala mo ang iyong device",
     "cta_text": "Gumawa ng Password",
     "creating_password": "Gumagawa ng password..."
@@ -1496,7 +1496,7 @@
     "what_is_seedphrase_title": "Ano ang 'Lihim na Parirala sa Pagbawi'",
     "what_is_seedphrase_text_1": "Ang Lihim na Parirala sa Pagbawi ay isang set ng labindalawang salita na naglalaman ng lahat ng impormasyon tungkol sa iyong wallet, kasama ang iyong mga pondo. Para itong lihim na code na ginagamit para ma-access ang iyong buong wallet.",
     "what_is_seedphrase_text_2": "Dapat mong panatilihing lihim at ligtas ang iyong Lihim na Parirala sa Pagbawi. Kung may makakakuha ng iyong Lihim na Parirala sa Pagbawi, makokontrol nila ang iyong mga account.",
-    "what_is_seedphrase_text_3": "I-save ito sa isang lugar na ikaw lang ang makaka-access. Kung maiwawala mo ito, hindi ka matutulungan ng MetaMask na ma-recover ito."
+    "what_is_seedphrase_text_3": "I-save ito sa isang lugar na ikaw lang ang makaka-access. Kung maiwawala mo ito, hindi ka matutulungan ng ElonMask na ma-recover ito."
   },
   "account_backup_step_1B": {
     "title": "I-secure ang iyong wallet",
@@ -1569,7 +1569,7 @@
   },
   "account_backup_step_6": {
     "title": "Mga Panseguridad na Tip",
-    "info_text": "Hindi mare-recover ng MetaMask ang iyong Lihim na Parirala sa Pagbawi sakaling maiwala mo ito",
+    "info_text": "Hindi mare-recover ng ElonMask ang iyong Lihim na Parirala sa Pagbawi sakaling maiwala mo ito",
     "tip_1": "Magtabi ng maraming backup ng iyong Lihim na Parirala sa Pagbawi",
     "tip_2": "Itabi ang phrase sa pinagkakatiwalaang password manager at papel na backup sa isang ligtas na lugar",
     "tip_3": "Huwag ibahagi ang phrase na ito sa sinuman",
@@ -1609,7 +1609,7 @@
     "congratulations": "Pagbati",
     "success": "Matagumpay mong naprotektahan ang iyong wallet. Tiyaking panatilihing ligtas ang iyong Lihim na Parirala sa Pagbawi, responsibilidad mo ito!",
     "hint": "Mag-iwan ng hint para sa sarili mo?",
-    "recover": "Hindi mare-recover ng MetaMask ang iyong wallet sakaling maiwala mo ito. Makikita mo ang iyong Lihim na Parirala sa Pagbawi sa Mga Setting > Seguridad at Pagkapribado.",
+    "recover": "Hindi mare-recover ng ElonMask ang iyong wallet sakaling maiwala mo ito. Makikita mo ang iyong Lihim na Parirala sa Pagbawi sa Mga Setting > Seguridad at Pagkapribado.",
     "learn": "Matuto pa",
     "done": "Tapos na",
     "recovery_hint": "Hint sa pag-recovery",
@@ -1622,7 +1622,7 @@
   "phishing": {
     "ethereum_phishing_detection": "Pag-detect ng Phishing ng Ethereum",
     "ethereum_phishing_detector": "Pang-detect ng Phishing ng Ethereum",
-    "intro": " ay kasalukuyang nasa listahan ng babala sa domain ng MetaMask. Ibig sabihin nito ay batay sa impormasyong available sa amin, naniniwala ang MetaMask na maaaring makompromiso ng domain na ito ang iyong seguridad at, bilang dagdag na feature ng seguridad, pinaghigpitan ng MetaMask ang pag-access sa site. Para ma-override ito, pakibasa ang natitirang bahagi ng babala para sa mga instruction kung paano magpapatuloy.",
+    "intro": " ay kasalukuyang nasa listahan ng babala sa domain ng ElonMask. Ibig sabihin nito ay batay sa impormasyong available sa amin, naniniwala ang ElonMask na maaaring makompromiso ng domain na ito ang iyong seguridad at, bilang dagdag na feature ng seguridad, pinaghigpitan ng ElonMask ang pag-access sa site. Para ma-override ito, pakibasa ang natitirang bahagi ng babala para sa mga instruction kung paano magpapatuloy.",
     "reasons": "Maraming dahilan kung paano maaaring lumabas ang mga site sa aming listahan ng babala, at ang listahan namin ay pinagsama-sama mula sa iba pang ginagamit na listahan sa industriya. Maaaring kasama sa mga nasabing dahilan ang mga kilalang panganib sa panloloko o seguridad, gaya ng mga domain na nagpositibo sa ",
     "list_content": "Maaaring kasama sa mga domain sa mga listahan ng babala na ito ang mga nakakahamak na website at lehitimong website na nakompromiso ng isang nakakahamak na actor.",
     "to_read_more": "Para magbasa ng higit pang impormasyon tungkol sa site na ito ",
@@ -1657,7 +1657,7 @@
     "received_message": "Mag-tap para tingnan ang transaksyong ito",
     "received_payment_message": "Nakatanggap ka ng {{amount}} DAI",
     "prompt_title": "Paganahin ang Mga Push Notification",
-    "prompt_desc": "Paganahin ang mga notification para maipaalam sa iyo ng MetaMask kapag nakatanggap ka ng ETH o kapag nakumpirma na ang iyong mga transaksyon.",
+    "prompt_desc": "Paganahin ang mga notification para maipaalam sa iyo ng ElonMask kapag nakatanggap ka ng ETH o kapag nakumpirma na ang iyong mga transaksyon.",
     "prompt_ok": "Oo",
     "prompt_cancel": "Huwag na lang",
     "wc_connected_title": "Nakakonekta sa {{title}}",
@@ -1824,7 +1824,7 @@
     "wyre_minimum_deposit": "Ang pinakamababang deposito ay {{amount}}",
     "wyre_maximum_deposit": "Ang pinakamataas na deposito ay {{amount}}",
     "apple_pay_purchase": "{{currency}} na Pagbili",
-    "apple_pay_provider_total_label": "{{provider}} (gamit ang MetaMask)",
+    "apple_pay_provider_total_label": "{{provider}} (gamit ang ElonMask)",
     "buy_with": "Bumili gamit ang",
     "plus_fee": "At dagdag na bayarin na {{fee}}",
     "notifications": {
@@ -1853,12 +1853,12 @@
         "average_gas_fee": "Kasalukuyang average na bayad sa gas:",
         "subtitle_1": "Kung plano mong i-swap o ilipat ang iyong {{ticker}}, bumili ng dagdag para mabayaran ang mga bayad sa gas.",
         "subtitle_2": "Ang mga bayad sa gas para sa mga transaksyon ay hiwalay sa gastusin sa pagbili ng {{ticker}}.",
-        "subtitle_3": "Hindi kumikita ang MetaMask mula sa mga bayad sa gas."
+        "subtitle_3": "Hindi kumikita ang ElonMask mula sa mga bayad sa gas."
       },
       "step_2": {
         "title": "Ano ang mga bayad sa gas?",
         "subtitle_1": "Pinapatakbo ng gas ang mga transaksyon sa Ethereum network. Isa itong bayarin na binabayaran sa {{ticker}} sa mga minero ng crypto na nagpoproseso sa iyong mga transaksyon.",
-        "subtitle_2": "Hindi kumikita ang MetaMask mula sa mga bayad sa gas.",
+        "subtitle_2": "Hindi kumikita ang ElonMask mula sa mga bayad sa gas.",
         "learn_more": "Matuto pa tungkol sa mga bayad sa gas"
       },
       "step_3": {
@@ -1996,13 +1996,13 @@
       "best_swap": "pinakasulit na swap",
       "across": "sa lahat ng...",
       "want_to_learn_more": "Gusto mo bang matuto pa?",
-      "learn_more": "Matuto pa tungkol sa MetaMask Swaps",
+      "learn_more": "Matuto pa tungkol sa ElonMask Swaps",
       "what_are": "Ano ang mga token swap?",
       "review_audits": "Suriin ang aming audit ng mga opisyal na kontrata",
       "start_swapping": "Simulang mag-swap"
     },
     "feature_off_title": "Pansamantalang hindi available",
-    "feature_off_body": "Kasalukuyang minementina ang MetaMask Swaps. Bumalik sa ibang pagkakataon.",
+    "feature_off_body": "Kasalukuyang minementina ang ElonMask Swaps. Bumalik sa ibang pagkakataon.",
     "wrong_network_title": "Hindi available ang mga swap",
     "wrong_network_body": "Makakapag-swap ka lang ng mga token sa Ethereum Main Network.",
     "unallowed_asset_title": "Hindi masa-swap ang token na ito",
@@ -2080,20 +2080,20 @@
     "estimated_gas_fee": "Tinantyang bayad sa gas",
     "max_gas_fee": "Pinakamataas na bayad sa gas",
     "edit": "I-edit",
-    "quotes_include_fee": "Kasama sa quote ang {{fee}}% na bayarin sa MetaMask",
+    "quotes_include_fee": "Kasama sa quote ang {{fee}}% na bayarin sa ElonMask",
     "tap_to_swap": "I-tap para I-swap",
     "swipe_to_swap": "I-swipe para i-swap",
     "swipe_to": "I-swipe para",
     "swap": "i-swap",
     "completed_swap": "I-swap!",
-    "metamask_swap_fee": "Bayad sa Pag-swap sa MetaMask",
+    "metamask_swap_fee": "Bayad sa Pag-swap sa ElonMask",
     "fee_text": {
       "get_the": "Makuha ang",
       "best_price": "pinakasulit na presyo",
       "from_the": "mula kay/sa",
       "top_liquidity": "mga nangungunang pinagmumulan ng liquidity palagi.",
-      "fee_is_applied": "Ang bayad na {{fee}} ay awtomatikong isinasali sa quote na ito. Babayaran mo ito bilang kapalit ng isang lisensya para gamitin ang software ng pagsasama-sama ng impormasyon ng tagapagbigay ng liquidity ng MetaMask.",
-      "fee_is_not_applied": "Hindi nagsasama ang MetaMask ng karagdagang singil sa quote na ito."
+      "fee_is_applied": "Ang bayad na {{fee}} ay awtomatikong isinasali sa quote na ito. Babayaran mo ito bilang kapalit ng isang lisensya para gamitin ang software ng pagsasama-sama ng impormasyon ng tagapagbigay ng liquidity ng ElonMask.",
+      "fee_is_not_applied": "Hindi nagsasama ang ElonMask ng karagdagang singil sa quote na ito."
     },
     "enable": {
       "this_will": "Magagawa nitong",
@@ -2158,7 +2158,7 @@
     "gas_education_1": "Binabayaran ang mga bayad sa gas sa mga minero ng crypto na nagpoproseso ng mga transaksyon sa ",
     "gas_education_2_ethereum": "Network ng Ethereum.",
     "gas_education_2": "network.",
-    "gas_education_3": "Hindi kumikita ang MetaMask mula sa mga bayad sa gas.",
+    "gas_education_3": "Hindi kumikita ang ElonMask mula sa mga bayad sa gas.",
     "gas_education_4": "Ang",
     "gas_education_5": "“Tinantyang bayad sa gas”",
     "gas_education_6": "ay ang inaasahan naming magiging aktuwal na bayarin. Ang eksaktong halaga ay nakadepende sa mga kundisyon ng network.",
@@ -2215,15 +2215,15 @@
   "switch_custom_network": {
     "title_existing_network": "Gusto ng site na ito na lumipat ng network",
     "title_new_network": "Nagdagdag ng bagong network",
-    "switch_warning": "Dahil dito, lilipat sa dating idinagdag na network ang napiling network sa loob ng MetaMask:",
+    "switch_warning": "Dahil dito, lilipat sa dating idinagdag na network ang napiling network sa loob ng ElonMask:",
     "available": "ay available na ngayon sa network selector.",
     "cancel": "Kanselahin",
     "switch": "Lumipat ng Network"
   },
   "add_custom_network": {
     "title": "Payagan ang site na ito na magdagdag ng network?",
-    "warning": "Binibigyang-daan nito na magamit ang network sa MetaMask.",
-    "warning_subtext_1": "Hindi vine-verify ng MetaMask ang mga custom na network o ang seguridad ng mga ito.",
+    "warning": "Binibigyang-daan nito na magamit ang network sa ElonMask.",
+    "warning_subtext_1": "Hindi vine-verify ng ElonMask ang mga custom na network o ang seguridad ng mga ito.",
     "warning_subtext_2": "Alamin ang tungkol sa",
     "warning_subtext_3": "mga panloloko at panganib ng seguridad ng network",
     "display_name": "Ipinapakitang pangalan",
@@ -2305,7 +2305,7 @@
     "estimated_gas_fee_tooltip_text_1": "Ang mga bayad sa gas ay binabayaran sa mga minero ng crypto na nagpoproseso ng mga transaksyon sa",
     "estimated_gas_fee_tooltip_text_2": " Ethereum",
     "estimated_gas_fee_tooltip_text_3": " network.",
-    "estimated_gas_fee_tooltip_text_4": "Ang MetaMask ay hindi kumikita mula sa mga bayad sa gas.",
+    "estimated_gas_fee_tooltip_text_4": "Ang ElonMask ay hindi kumikita mula sa mga bayad sa gas.",
     "estimated_gas_fee_tooltip_text_5": "Ang mga bayad sa gas ay itinakda ng network at nagbabago-bago batay sa trapiko sa network at pagiging kumplikado ng transaksyon.",
     "learn_more": "Matuto pa tungkol sa mga bayad sa gas",
     "legacy_gas_suggestion_tooltip": "Ang suhestyon sa bayad sa gas na ito ay gumagamit ng legacy na pagtatantya ng gas na maaaring hindi tumpak."
@@ -2329,7 +2329,7 @@
     "high_fees": "Bakit napakataas ng mga bayarin?",
     "missing_tokens": "Kulang ako ng mga token...",
     "swap_issues": "Hindi ako makapag-swap...",
-    "mobile_sentiment": "Ano ang pakiramdam mo tungkol sa MetaMask mobile?",
+    "mobile_sentiment": "Ano ang pakiramdam mo tungkol sa ElonMask mobile?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "Gustung-gusto ko ito!",
@@ -2377,12 +2377,12 @@
   },
   "remember_me": {
     "enable_remember_me": "I-on ang Tandaan ako",
-    "enable_remember_me_description": "Kapag naka-on ang tandaan ako, sinumang may access sa iyong telepono ay makaka-access sa iyong MetaMask account."
+    "enable_remember_me_description": "Kapag naka-on ang tandaan ako, sinumang may access sa iyong telepono ay makaka-access sa iyong ElonMask account."
   },
   "turn_off_remember_me": {
     "title": "Ilagay ang iyong password para i-off ang Tandaan ako",
     "placeholder": "Password",
-    "description": "Kung in-off mo ang opsyong ito, kakailanganin mo ang iyong password upang i-unlock ang MetaMask mula ngayon.",
+    "description": "Kung in-off mo ang opsyong ito, kakailanganin mo ang iyong password upang i-unlock ang ElonMask mula ngayon.",
     "action": "I-off ang Tandaan ako"
   },
   "dapp_connect": {
@@ -2394,11 +2394,11 @@
   },
   "automatic_security_checks": {
     "title": "Mga awtomatikong pagsusuri sa seguridad",
-    "description": "Ang awtomatikong pagtingin ng mga update ay maaaring ilantad ang iyong IP address sa mga GitHub server. Ipinapahiwatig lang nito na ginagamit ng iyong IP address ang MetaMask. Walang ibang impormasyon o address ng account ang nakalantad."
+    "description": "Ang awtomatikong pagtingin ng mga update ay maaaring ilantad ang iyong IP address sa mga GitHub server. Ipinapahiwatig lang nito na ginagamit ng iyong IP address ang ElonMask. Walang ibang impormasyon o address ng account ang nakalantad."
   },
   "terms_of_use_modal": {
     "title": "Repasuhin ang aming pinakabagong Tuntunin ng Paggamit",
-    "terms_of_use_check_description": "Sumasang-ayon ako sa Mga Tuntunin ng Paggamit, na nalalapat sa aking paggamit ng MetaMask at sa lahat ng mga tampok nito",
+    "terms_of_use_check_description": "Sumasang-ayon ako sa Mga Tuntunin ng Paggamit, na nalalapat sa aking paggamit ng ElonMask at sa lahat ng mga tampok nito",
     "accept_cta": "Tanggapin",
     "accept_helper_description": "Mangyaring mag-scroll upang basahin ang lahat ng mga seksyon"
   },
@@ -2410,7 +2410,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "Awtomatikong suriin para sa mga update sa seguridad?",
-    "description": "Maaaring ilantad ng awtomatikong pagsuri para sa mga update ang iyong IP address sa mga server ng GitHub. Ipinapahiwatig lamang nito na ang iyong IP address ay gumagamit ng MetaMask. Walang ibang impormasyon o address ng account ang nakalantad.",
+    "description": "Maaaring ilantad ng awtomatikong pagsuri para sa mga update ang iyong IP address sa mga server ng GitHub. Ipinapahiwatig lamang nito na ang iyong IP address ay gumagamit ng ElonMask. Walang ibang impormasyon o address ng account ang nakalantad.",
     "primary_action": "Paganahin ang mga awtomatikong pagsusuri sa seguridad",
     "secondary_action": "Salamat nalang"
   },
@@ -2463,7 +2463,7 @@
     "new_wallet_needed_create_try_again_action": "Subukang mabawi ang wallet",
     "new_wallet_needed_description_part_one": "Nagkaproblema sa iyong wallet, at kakailanganin mo na gumawa ng bago. Dahil ang mga account mo ay nasa blockchain, ligtas pa rin ang mga iyon. Mga preference, naka-save na network, pangalan ng account at nauugnay na data na naka-save sa iyong device lang ang mawawala.",
     "new_wallet_needed_description_part_two": "Para i-import ang iyong mga account sa bagong wallet, kailangan mo ang iyong Secret Recovery Phrase. Kung wala kang Lihim na Parirala sa Pagbawi, hindi mo mai-import ang mga account mo.",
-    "new_wallet_needed_description_part_three": "Para maiwasan na mangyari itong muli, tiyakin na laging naka-update sa pinakabagong bersyon ang iyong MetaMask app at OS."
+    "new_wallet_needed_description_part_three": "Para maiwasan na mangyari itong muli, tiyakin na laging naka-update sa pinakabagong bersyon ang iyong ElonMask app at OS."
   },
   "srp_security_quiz": {
     "title": "Pagsusulit sa seguridad",
@@ -2474,7 +2474,7 @@
     "continue": "Magpatuloy",
     "of": "ng",
     "question_one": {
-      "question": "Kung mawala mo ang iyong Lihim na Parirala sa Pagbawi, ang MetaMask ay...",
+      "question": "Kung mawala mo ang iyong Lihim na Parirala sa Pagbawi, ang ElonMask ay...",
       "right_answer": "Hindi ka matutulungan",
       "wrong_answer": "Maaari itong ibalik para sa iyo",
       "right_answer_title": "Tama! Walang makakatulong na maibalik ang iyong Lihim na Parirala sa Pagbawi",
@@ -2537,7 +2537,7 @@
     "unknown_error_message": "May naganap na hindi inaasahang error. Pakisubukang muli.",
     "error_occured": "May naganap na error",
     "how_to_install_eth_app": "Paano i-install ang app ng Ethereum sa isang Ledger device",
-    "ledger_account_count": "Gumagamit ka ng 1 account mula sa iyong Ledger gamit ang MetaMask Mobile.",
+    "ledger_account_count": "Gumagamit ka ng 1 account mula sa iyong Ledger gamit ang ElonMask Mobile.",
     "open_eth_app": "Mangyaring buksan ang app ng Ethereum",
     "open_eth_app_message_one": "Natukoy namin na mayroon kang naka-install na app ng Ethereum ngunit hindi ito nakabukas, mangyaring ",
     "open_eth_app_message_two": "pindutin ang dalawang button sa device para tanggapin ang prompt para mabuksan ang app ng Ethereum para magpatuloy.",
@@ -2551,7 +2551,7 @@
     "not_supported": "Hindi sinusuportahan ang operasyon",
     "not_supported_error": "Ang bersyon 4 lamang ng naka-type na pagpirma ng data ang sinusuportahan.",
     "error_during_connection": "May naganap na hindi kilalang error",
-    "error_during_connection_message": "Nagkaroon ng kaunting problema sa pagkonekta sa iyong Ledger Nano X, i-tap ang 'Subukang muli' sa ibaba upang subukan ito. Minsan nangyayari ito dahil sa pagiging bukas ng ETH app sa iyong Ledger Nano X sa simula ng proseso ng pagpapares sa MetaMask Mobile.",
+    "error_during_connection_message": "Nagkaroon ng kaunting problema sa pagkonekta sa iyong Ledger Nano X, i-tap ang 'Subukang muli' sa ibaba upang subukan ito. Minsan nangyayari ito dahil sa pagiging bukas ng ETH app sa iyong Ledger Nano X sa simula ng proseso ng pagpapares sa ElonMask Mobile.",
     "how_to_install_eth_webview_title": "Paano i-install ang App ng Ethereum"
   },
   "account_actions": {
