@@ -1041,11 +1041,11 @@ class DrawerView extends PureComponent {
                 style={styles.metamaskFox}
                 resizeMethod={'auto'}
               />
-              <Image
+              {/* <Image
                 source={metamask_name}
                 style={styles.metamaskName}
                 resizeMethod={'auto'}
-              />
+              /> */}
             </View>
           </View>
           <View style={styles.account}>

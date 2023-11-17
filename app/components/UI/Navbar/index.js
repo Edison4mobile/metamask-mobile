@@ -680,11 +680,11 @@ export function getOnboardingNavbarOptions(
     headerStyle: innerStyles.headerStyle,
     headerTitle: () => (
       <View style={styles.metamaskNameTransparentWrapper}>
-        <Image
+        {/* <Image
           source={metamask_name}
           style={innerStyles.metamaskName}
           resizeMethod={'auto'}
-        />
+        /> */}
       </View>
     ),
     headerBackTitle: strings('navigation.back'),
@@ -715,11 +715,11 @@ export function getTransparentOnboardingNavbarOptions(themeColors) {
   return {
     headerTitle: () => (
       <View style={styles.metamaskNameTransparentWrapper}>
-        <Image
+        {/* <Image
           source={metamask_name}
           style={innerStyles.metamaskName}
           resizeMethod={'auto'}
-        />
+        /> */}
       </View>
     ),
     headerLeft: () => <View />,
@@ -749,11 +749,11 @@ export function getTransparentBackOnboardingNavbarOptions(themeColors) {
   return {
     headerTitle: () => (
       <View style={styles.metamaskNameTransparentWrapper}>
-        <Image
+        {/* <Image
           source={metamask_name}
           style={innerStyles.metamaskName}
           resizeMethod={'auto'}
-        />
+        /> */}
       </View>
     ),
     headerBackTitle: strings('navigation.back'),
@@ -797,11 +797,11 @@ export function getOptinMetricsNavbarOptions(themeColors) {
           />
         </View>
         <View style={styles.metamaskNameWrapper}>
-          <Image
+          {/* <Image
             source={metamask_name}
             style={innerStyles.metamaskName}
             resizeMethod={'auto'}
-          />
+          /> */}
         </View>
       </View>
     ),

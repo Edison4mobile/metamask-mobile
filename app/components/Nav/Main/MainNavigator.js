@@ -660,13 +660,13 @@ const MainNavigator = () => (
     <Stack.Screen
       name="SetPasswordFlow"
       component={SetPasswordFlow}
-      headerTitle={() => (
-        <Image
-          style={styles.headerLogo}
-          source={require('../../../images/metamask-name.png')}
-          resizeMode={'contain'}
-        />
-      )}
+      // headerTitle={() => (
+      //   <Image
+      //     style={styles.headerLogo}
+      //     source={require('../../../images/metamask-name.png')}
+      //     resizeMode={'contain'}
+      //   />
+      // )}
       // eslint-disable-next-line react-native/no-inline-styles
       headerStyle={{ borderBottomWidth: 0 }}
     />
