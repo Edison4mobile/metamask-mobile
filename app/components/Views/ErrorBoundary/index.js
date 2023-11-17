@@ -20,7 +20,7 @@ import { mockTheme, ThemeContext, useTheme } from '../../../util/theme';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 // eslint-disable-next-line import/no-commonjs
-const metamaskErrorImage = require('../../../images/metamask-error.png');
+const metamaskErrorImage = require('../../../images/fox.png');
 
 const createStyles = (colors) =>
   StyleSheet.create({
