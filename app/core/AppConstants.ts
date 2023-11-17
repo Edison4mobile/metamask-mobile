@@ -123,8 +123,8 @@ export default {
     SUPPORT: 'https://support.metamask.io',
   },
   BUNDLE_IDS: {
-    IOS: 'io.metamask.MetaMask',
-    ANDROID: 'io.metamask',
+    IOS: 'io.elonmask.MetaMask',
+    ANDROID: 'io.elonmask',
   },
   LEAST_SUPPORTED_ANDROID_API_LEVEL: 29,
   ADD_CUSTOM_NETWORK_POPULAR_TAB_ID: 'popular-tab',

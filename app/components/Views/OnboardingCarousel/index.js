@@ -117,12 +117,12 @@ const createStyles = (colors) =>
     },
   });
 
-const onboarding_carousel_1 = require('../../../images/onboarding-carousel-1.png'); // eslint-disable-line
+// const onboarding_carousel_1 = require('../../../images/onboarding-carousel-1.png'); // eslint-disable-line
 const onboarding_carousel_2 = require('../../../images/onboarding-carousel-2.png'); // eslint-disable-line
 const onboarding_carousel_3 = require('../../../images/onboarding-carousel-3.png'); // eslint-disable-line
 
 const carousel_images = [
-  onboarding_carousel_1,
+  // onboarding_carousel_1,
   onboarding_carousel_2,
   onboarding_carousel_3,
 ];
@@ -216,7 +216,8 @@ class OnboardingCarousel extends PureComponent {
                 renderTabBar={this.renderTabBar}
                 onChangeTab={this.onChangeTab}
               >
-                {['one', 'two', 'three'].map((value, index) => {
+                {/* {['one', 'two', 'three'].map((value, index) => { */}
+                  {['two', 'three'].map((value, index) => {
                   const key = index + 1;
                   const imgStyleKey = `carouselImage${key}`;
                   return (
@@ -249,7 +250,8 @@ class OnboardingCarousel extends PureComponent {
               </ScrollableTabView>
 
               <View style={styles.progessContainer}>
-                {[1, 2, 3].map((i) => (
+                {/* {[1, 2, 3].map((i) => ( */}
+                {[1, 2].map((i) => (
                   <View
                     key={i}
                     style={[

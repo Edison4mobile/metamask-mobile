@@ -174,7 +174,7 @@ When(/^I log into my wallet$/, async () => {
 When(/^I kill the app$/, async () => {3
   const platform = await driver.getPlatform();
   if (platform === 'iOS') {
-    await driver.terminateApp('io.metamask.MetaMask-QA');
+    await driver.terminateApp('io.elonmask.MetaMask-QA');
   }
 
   if (platform === 'Android') {
@@ -185,11 +185,11 @@ When(/^I kill the app$/, async () => {3
 When(/^I relaunch the app$/, async () => {
   const platform = await driver.getPlatform();
   if (platform === 'iOS') {
-    await driver.activateApp('io.metamask.MetaMask-QA');
+    await driver.activateApp('io.elonmask.MetaMask-QA');
   }
 
   if (platform === 'Android') {
-    await driver.startActivity('io.metamask.qa', 'io.metamask.MainActivity');
+    await driver.startActivity('io.elonmask.qa', 'io.elonmask.MainActivity');
   }
 });
 

@@ -280,7 +280,7 @@ buildIosQA(){
 
 buildAndroidQA(){
 	if [ "$PRE_RELEASE" = false ] ; then
-		adb uninstall io.metamask.qa
+		adb uninstall io.elonmask.qa
 	fi
 
 	prebuild_android
@@ -306,7 +306,7 @@ buildAndroidQA(){
 
 buildAndroidRelease(){
 	if [ "$PRE_RELEASE" = false ] ; then
-		adb uninstall io.metamask || true
+		adb uninstall io.elonmask || true
 	fi
 	prebuild_android
 

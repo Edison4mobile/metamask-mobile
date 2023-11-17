@@ -1,4 +1,4 @@
-package io.metamask;
+package io.elonmask;
 
 import android.app.Application;
 import com.facebook.react.ReactApplication;
@@ -8,15 +8,15 @@ import com.airbnb.android.react.lottie.LottiePackage;
 
 import cl.json.ShareApplication;
 import io.branch.rnbranch.RNBranchModule;
-import io.metamask.nativeModules.RCTMinimizerPackage;
-import io.metamask.nativeModules.RCTAnalyticsPackage;
+import io.elonmask.nativeModules.RCTMinimizerPackage;
+import io.elonmask.nativeModules.RCTAnalyticsPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.soloader.SoLoader;
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint;
 import com.facebook.react.defaults.DefaultReactNativeHost;
 import java.util.List;
-import io.metamask.nativeModules.PreventScreenshotPackage;
+import io.elonmask.nativeModules.PreventScreenshotPackage;
 import android.webkit.WebView;
 
 import android.database.CursorWindow;

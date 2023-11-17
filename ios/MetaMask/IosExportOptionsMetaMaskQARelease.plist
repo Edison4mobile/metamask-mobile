@@ -4,7 +4,7 @@
   <dict>
     <key>provisioningProfiles</key>
     <dict>
-      <key>io.metamask.MetaMask-QA</key>
+      <key>io.elonmask.MetaMask-QA</key>
       <string>Bitrise Internal Release - MetaMask-QA</string>
     </dict>
     <key>uploadSymbols</key>

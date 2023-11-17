@@ -695,7 +695,7 @@ workflows:
     envs:
       - opts:
           is_expand: false
-        MM_ANDROID_PACKAGE_NAME: io.metamask
+        MM_ANDROID_PACKAGE_NAME: io.elonmask
   deploy_ios_to_store:
     steps:
       - pull-intermediate-files@1:

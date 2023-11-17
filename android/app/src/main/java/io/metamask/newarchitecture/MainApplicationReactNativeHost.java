@@ -1,4 +1,4 @@
-package io.metamask.newarchitecture;
+package io.elonmask.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import io.metamask.BuildConfig;
-import io.metamask.newarchitecture.components.MainComponentsRegistry;
-import io.metamask.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import io.elonmask.BuildConfig;
+import io.elonmask.newarchitecture.components.MainComponentsRegistry;
+import io.elonmask.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

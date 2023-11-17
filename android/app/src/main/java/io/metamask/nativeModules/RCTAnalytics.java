@@ -1,4 +1,4 @@
-package io.metamask.nativeModules;
+package io.elonmask.nativeModules;
 
 import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;

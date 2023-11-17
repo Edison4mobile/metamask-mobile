@@ -1,4 +1,4 @@
-package io.metamask;
+package io.elonmask;
 
 import com.wix.detox.Detox;
 

@@ -131,10 +131,10 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace"io.metamask"
+    namespace"io.elonmask"
 
     defaultConfig {
-        applicationId "io.metamask"
+        applicationId "io.elonmask"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -198,12 +198,12 @@ android {
           qa {
             dimension "version"
             applicationIdSuffix ".qa"
-            applicationId "io.metamask"
+            applicationId "io.elonmask"
             signingConfig signingConfigs.qa
           }
           prod {
             dimension "version"
-            applicationId "io.metamask"
+            applicationId "io.elonmask"
             signingConfig signingConfigs.release
           }
     	  }
